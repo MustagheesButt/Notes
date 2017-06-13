@@ -1,0 +1,3327 @@
+[
+{
+	"idiom": "A black sheep",
+	"m_e": "A disgrace",
+	"m_u": "بدکردار شخص",
+	"sentence": "Uncle Joe is the black sheep of the family.",
+	"imp": false
+},
+{
+	"idiom": "A red-letter day",
+	"m_e": "An important or special day",
+	"m_u": "خاص یا خوشی کا دِن",
+	"sentence": "The day our daughter was born was a real red-letter day for us.",
+	"imp": false
+},
+{
+	"idiom": "A bed of thorns",
+	"m_e": "Full of difficulties",
+	"m_u": "مشکلات سے بھرپور",
+	"sentence": "Life of a soldier is a bed of thorns.",
+	"imp": false
+},
+{
+	"idiom": "A bee in bonnet",
+	"m_e": "An obsession",
+	"m_u": "دُھن سوار ہونا",
+	"sentence": "I got a bee in my bonnet about racing.",
+	"imp": false
+},
+{
+	"idiom": "A bird's eye view",
+	"m_e": "An overview",
+	"m_u": "سرسری جائزہ",
+	"sentence": "We had a bird's eye view of the city from top of the mountain.",
+	"imp": false
+},
+{
+	"idiom": "A blessing in disguise",
+	"m_e": "A hidden favour",
+	"m_u": "پُوشیدہ رحمت",
+	"sentence": "Mom's illness was a blessing in disguise; it brought the family together for the first time in years.",
+	"imp": false
+},
+{
+	"idiom": "A blind alley",
+	"m_e": "A position without hope of progress",
+	"m_u": "پیش رفت نہ ہونا",
+	"sentence": "All the clues led the detective to a blind alley.",
+	"imp": true
+},
+{
+	"idiom": "A bolt from the blue",
+	"m_e": "A sudden surprise",
+	"m_u": "حیران کُن واقعہ",
+	"sentence": "The news of his return was a bolt from the blue.",
+	"imp": false
+},
+{
+	"idiom": "A bone of contention",
+	"m_e": "Point of argument of disagreement",
+	"m_u": "جھگڑے کی وجہ",
+	"sentence": "The house is the bone of contention between the two brothers.",
+	"imp": false
+},
+{
+	"idiom": "A cat's-paw",
+	"m_e": "An agent",
+	"m_u": "آلہٰ کار",
+	"sentence": "A cat's-paw works only for his master.",
+	"imp": false
+},
+{
+	"idiom": "A child's play",
+	"m_e": "Very easy task",
+	"m_u": "آسان کام",
+	"sentence": "The test was child's play to those who took good notes.",
+	"imp": false
+},
+{
+	"idiom": "A close-fisted man",
+	"m_e": "Careful with money, penny-pinching",
+	"m_u": "کنجوس",
+	"sentence": "The manager is very close-fisted when it comes to paying salaries.",
+	"imp": false
+},
+{
+	"idiom": "A dark horse",
+	"m_e": "Previously unknown, unexpected",
+	"m_u": "چُھپا رستم",
+	"sentence": "He proved himself a dark horse by winning the first position.",
+	"imp": false
+},
+{
+	"idiom": "A dead letter",
+	"m_e": "Ineffective",
+	"m_u": "ختم شدہ",
+	"sentence": "Our contract with the company is now a dead letter.",
+	"imp": false
+},
+{
+	"idiom": "A dead end",
+	"m_e": "Situation in which progress can't be made",
+	"m_u": "اختتام",
+	"sentence": "Negotiators have reached a dead end in their attempts to find a peaceful solution.",
+	"imp": false
+},
+{
+	"idiom": "A dog in the manger",
+	"m_e": "Mean",
+	"m_u": "کمینہ، مطلبی",
+	"sentence": "Stop being a dog in the manger and let me use your books.",
+	"imp": false
+},
+{
+	"idiom": "A drawn game",
+	"m_e": "Without result, equally contested",
+	"m_u": "بلا نتیجہ کھیل",
+	"sentence": "It was a drawn game as neither of the team could win.",
+	"imp": false
+},
+{
+	"idiom": "A fair play",
+	"m_e": "Honestly, upright conduct",
+	"m_u": "صحیح طریقہ",
+	"sentence": "The coach insists on fair play.",
+	"imp": false
+},
+{
+	"idiom": "A fish out of water",
+	"m_e": "Uncomfortable situation",
+	"m_u": "بےچینی کی حالت",
+	"sentence": "The villager was a fish out of water in the city.",
+	"imp": false
+},
+{
+	"idiom": "A fishy story",
+	"m_e": "Doubtful story",
+	"m_u": "مشکوک واقعہ/کہانی",
+	"sentence": "No one believes his fishy story about his successful business.",
+	"imp": false
+},
+{
+	"idiom": "A gala day",
+	"m_e": "A happy moment/day",
+	"m_u": "خوشی کا دن",
+	"sentence": "Success makes every day a gala day.",
+	"imp": false
+},
+{
+	"idiom": "A man of iron will",
+	"m_e": "Determined person",
+	"m_u": "پُرعزم شخص",
+	"sentence": "Salahudin was a man of iron will.",
+	"imp": false
+},
+{
+	"idiom": "A man of letters",
+	"m_e": "Male scholar or author",
+	"m_u": "عالم شخص",
+	"sentence": "Allama Iqbal made his identity as a man of letters.",
+	"imp": false
+},
+{
+	"idiom": "A man of parts",
+	"m_e": "A person with different talents",
+	"m_u": "کئی خوبیوں والا شخص",
+	"sentence": "Hamid is a man of parts - businessman, sportsman and a cook, to name a few.",
+	"imp": false
+},
+{
+	"idiom": "A narrow escape",
+	"m_e": "Closely avoid danger",
+	"m_u": "بال بال بچنا",
+	"sentence": "We had a narrow escape in the accident this morning.",
+	"imp": true
+},
+{
+	"idiom": "A near miss",
+	"m_e": "Nearly avoid danger or success",
+	"m_u": "بال بال بچنا یا کامیابی سے رہ جانا",
+	"sentence": "I managed to brake just in time but it was a near miss. OR My success was a near miss but I got confused at the end.",
+	"imp": false
+},
+{
+	"idiom": "A rainy day",
+	"m_e": "Tough time",
+	"m_u": "مشکل وقت",
+	"sentence": "Wise men always save some money for a rainy day.",
+	"imp": false
+},
+{
+	"idiom": "A rolling stone",
+	"m_e": "A travelling person",
+	"m_u": "سفر کرنے والا",
+	"sentence": "Kate has lived in ten cities in as many years - she's a real rolling stone.",
+	"imp": false
+},
+{
+	"idiom": "A rotten egg",
+	"m_e": "A bad or useless person",
+	"m_u": "بےکار شخص",
+	"sentence": "He sure has turned out to be a rotten egg.",
+	"imp": false
+},
+{
+	"idiom": "A royal road",
+	"m_e": "Easy or direct way",
+	"m_u": "آسان طریقہ",
+	"sentence": "There is no royal road to success.",
+	"imp": false
+},
+{
+	"idiom": "A slip of tongue",
+	"m_e": "Error in speaking",
+	"m_u": "زبان کا جھول",
+	"sentence": "I failed to understand the instructions because the teacher made a slip of the tongue at an important point.",
+	"imp": false
+},
+{
+	"idiom": "A wet blanket",
+	"m_e": "destroy others' enjoyment",
+	"m_u": "مزہ خراب کرنے والا شخص",
+	"sentence": "His brother was a wet blanket in the party.",
+	"imp": false
+},
+{
+	"idiom": "A white elephant",
+	"m_e": "Expensive (and Useless)",
+	"m_u": "مہنگی",
+	"sentence": "The new iPhone is a white elephant for me.",
+	"imp": false
+},
+{
+	"idiom": "A wild goose chase",
+	"m_e": "Futile/Useless search",
+	"m_u": "بےمقصد تلاش",
+	"sentence": "She sent us on a wild goose chase looking for her lost ring.",
+	"imp": true
+},
+{
+	"idiom": "Above board",
+	"m_e": "Undoubted, without dishonesty",
+	"m_u": "شک سے بالاتر",
+	"sentence": "A dog's loyalty is above board.",
+	"imp": false
+},
+{
+	"idiom": "Add fuel to fire",
+	"m_e": "Make something worse",
+	"m_u": "جلتی پر تیل ڈالنا",
+	"sentence": "Shouting at a crying child just adds fuel to the fire.",
+	"imp": false
+},
+{
+	"idiom": "Add insult to injury",
+	"m_e": "Hurt someone's feelings, worsen the situation",
+	"m_u": "زخموں پر نمک چھڑکنا",
+	"sentence": "He added insult to injury by asking about my loss.",
+	"imp": false
+},
+{
+	"idiom": "All and sundry",
+	"m_e": "One and all",
+	"m_u": "خاص و عام",
+	"sentence": "Tea was served to all and sundry in the meeting.",
+	"imp": false
+},
+{
+	"idiom": "All at sea",
+	"m_e": "Completely confused",
+	"m_u": "بلکل پریشان",
+	"sentence": "I have been all at sea since I started taking this class.",
+	"imp": false
+},
+{
+	"idiom": "All in all",
+	"m_e": "Summary, everything",
+	"m_u": "مجموعی طور پر",
+	"sentence": "All in all, it was a very motivational speech.",
+	"imp": false
+},
+{
+	"idiom": "Alpha and omega",
+	"m_e": "Beginning and the end",
+	"m_u": "اول و آخر",
+	"sentence": "He had to learn the alpha and omega of corporate law in order to even talk to the lawyers.",
+	"imp": false
+},
+{
+	"idiom": "An apple of discord",
+	"m_e": "Cause of envy or dispute",
+	"m_u": "جھگڑے کی وجہ",
+	"sentence": "The right to host the Olympic Games is an apple of discord between the two countries.",
+	"imp": false
+},
+{
+	"idiom": "An axe to grind",
+	"m_e": "Personal benefit",
+	"m_u": "ذاتی مفاد",
+	"sentence": "He claimed to be disinterested, but I knew he had an axe to grind.",
+	"imp": false
+},
+{
+	"idiom": "An eyewash",
+	"m_e": "Deception",
+	"m_u": "دھوکا",
+	"sentence": "The story you just told is just an eyewash.",
+	"imp": false
+},
+{
+	"idiom": "An oily tongue",
+	"m_e": "Flattering words",
+	"m_u": "خوشامدی الفاظ",
+	"sentence": "She has an oily tongue, but an evil heart.",
+	"imp": false
+},
+{
+	"idiom": "Apple-pie order",
+	"m_e": "Extreme neatness",
+	"m_u": "مکمل ترتیب",
+	"sentence": "Steve keeps his financial records in apple-pie order.",
+	"imp": false
+},
+{
+	"idiom": "Apple of one's eyes",
+	"m_e": "Very near and dear",
+	"m_u": "آنکھ کا تارا",
+	"sentence": "Her grandson is the apple of her eye.",
+	"imp": false
+},
+{
+	"idiom": "As cool as a cucumber",
+	"m_e": "Calm",
+	"m_u": "پُرسکون",
+	"sentence": "His exams are near but he remains as cool as a cucumber.",
+	"imp": false
+},
+{
+	"idiom": "At a stone's throw",
+	"m_e": "Very near",
+	"m_u": "بہت قریب",
+	"sentence": "The bakery is just a stone's throw away.",
+	"imp": false
+},
+{
+	"idiom": "At daggers drawn",
+	"m_e": "To be enemies",
+	"m_u": "دشمنی پر اُتر آنا",
+	"sentence": "The two brothers are at daggers drawn over the land.",
+	"imp": false
+},
+{
+	"idiom": "At eleventh hour",
+	"m_e": "Latest possible time",
+	"m_u": "عین وقت پر",
+	"sentence": "He completed his assignment at the eleventh hour.",
+	"imp": true
+},
+{
+	"idiom": "At home in",
+	"m_e": "At ease, proficient",
+	"m_u": "ماہر ہونا",
+	"sentence": "She is at home in five languages.",
+	"imp": false
+},
+{
+	"idiom": "At large",
+	"m_e": "At liberty, free",
+	"m_u": "آزاد",
+	"sentence": "Criminals are at large in the city due to laziness of the police.",
+	"imp": false
+},
+{
+	"idiom": "At one's wit's end",
+	"m_e": "Completely confused, puzzled",
+	"m_u": "پریشان، حواس باختہ ہونا",
+	"sentence": "I've tried every possible way to solve this problem, and now I'm at my wit's end.",
+	"imp": false
+},
+{
+	"idiom": "At a loss",
+	"m_e": "Speechless, confused",
+	"m_u": "حیران و پریشان ہونا",
+	"sentence": "I was so surprised that I was at a loss for words.",
+	"imp": false
+},
+{
+	"idiom": "At a stretch",
+	"m_e": "Continuously",
+	"m_u": "مسلسل",
+	"sentence": "We all have to do eight hours of duty at a stretch.",
+	"imp": false
+},
+{
+	"idiom": "At any cost",
+	"m_e": "At any price",
+	"m_u": "کسی بھی قیمت پر",
+	"sentence": "We will defend our country at any cost.",
+	"imp": false
+},
+{
+	"idiom": "At cross-purposes",
+	"m_e": "With different/opposite intentions",
+	"m_u": "مختلف مقاصد",
+	"sentence": "Enemies are always at cross-purposes.",
+	"imp": false
+},
+{
+	"idiom": "At hand",
+	"m_e": "Near",
+	"m_u": "قریب",
+	"sentence": "With summer holidays at hand, everyone is very excited.",
+	"imp": false
+},
+{
+	"idiom": "At length",
+	"m_e": "Finally",
+	"m_u": "آخرکار",
+	"sentence": "At length, spring came and the roses bloomed.",
+	"imp": false
+},
+{
+	"idiom": "At (someone's) beck and call",
+	"m_e": "Ready to obey someone",
+	"m_u": "حکم کے تابع ہونا",
+	"sentence": "There were dozens of maids and waiters at our beck and call.",
+	"imp": false
+},
+{
+	"idiom": "At stake",
+	"m_e": "At risk",
+	"m_u": "خطرے میں",
+	"sentence": "That's a very risky investment. How much money is at stake?",
+	"imp": false
+},
+{
+	"idiom": "All ears",
+	"m_e": "Listening carefully",
+	"m_u": "متوجہ ہو کر سننا",
+	"sentence": "I'm all ears, so hurry up and tell me about the incident.",
+	"imp": false
+},
+{
+	"idiom": "All of a sudden",
+	"m_e": "Suddenly",
+	"m_u": "اچانک",
+	"sentence": "All of a sudden, it became cloudy and started to rain.",
+	"imp": false
+},
+{
+	"idiom": "Around the clock",
+	"m_e": "All day and night",
+	"m_u": "ہر وقت",
+	"sentence": "Doctors worked around the clock to help the people injured in the train crash.",
+	"imp": false
+},
+{
+	"idiom": "At sixes and sevens",
+	"m_e": "Disorganised",
+	"m_u": "بےترتیب",
+	"sentence": "We've just moved in, and the office is still at sixes and sevens",
+	"imp": false
+},
+{
+	"idiom": "Back out",
+	"m_e": "To withdraw",
+	"m_u": "مُکر جانا، چھوڑ دینا",
+	"sentence": "They backed out of the agreement at the eleventh hour.",
+	"imp": false
+},
+{
+	"idiom": "Bad blood",
+	"m_e": "Enmity",
+	"m_u": "دُشمنی",
+	"sentence": "There's been bad blood between the two families for years.",
+	"imp": false
+},
+{
+	"idiom": "Bag and baggage",
+	"m_e": "With one's possessions",
+	"m_u": "ساز و سامان",
+	"sentence": "The landlord threw them out with bag and baggage.",
+	"imp": false
+},
+{
+	"idiom": "Bear the palm",
+	"m_e": "Be the winner, take the prize",
+	"m_u": "فاتح ہونا",
+	"sentence": "I heard that you might bear the palm at the science fair!",
+	"imp": false
+},
+{
+	"idiom": "Bear fruit",
+	"m_e": "To yield results",
+	"m_u": "فائدہ ہونا",
+	"sentence": "I hope your new plan bears fruit.",
+	"imp": false
+},
+{
+	"idiom": "Bear out",
+	"m_e": "Confirm something",
+	"m_u": "توثیق کرنا",
+	"sentence": "Her story bears out exactly what you said.",
+	"imp": false
+},
+{
+	"idiom": "Beat about the bush",
+	"m_e": "To avoid talk which can upset someone",
+	"m_u": "اِدھر اُدھر کی باتیں کرنا",
+	"sentence": "Don't beat around the bush and tell me where my brother is.",
+	"imp": false
+},
+{
+	"idiom": "Bed of roses",
+	"m_e": "Comfortable",
+	"m_u": "پُرسکون",
+	"sentence": "Taking care of these older patients is no bed of roses.",
+	"imp": false
+},
+{
+	"idiom": "Bell the cat",
+	"m_e": "Perform a risky task",
+	"m_u": "مشکل کام کرنا",
+	"sentence": "Who's going to bell the cat and tell mom we wrecked her car?",
+	"imp": false
+},
+{
+	"idiom": "Better half",
+	"m_e": "Wife/husband",
+	"m_u": "میاں بیوی",
+	"sentence": "His better half doesn't care much for him.",
+	"imp": true
+},
+{
+	"idiom": "Between the devil and the deep blue sea",
+	"m_e": "Having only two very unpleasant choices",
+	"m_u": "دو مشکلات کے درمیان",
+	"sentence": "For most people a visit to the dentist is the result of a choice between the devil and the deep blue sea - if you go you suffer, and if you don't go you suffer.",
+	"imp": false
+},
+{
+	"idiom": "Between two fires",
+	"m_e": "Between two difficulties",
+	"m_u": "دو مصیبتوں کے درمیان",
+	"sentence": "The soldiers were left alone between two fires, when the supply didn't arrive.",
+	"imp": false
+},
+{
+	"idiom": "Black out",
+	"m_e": "To turn off the lights",
+	"m_u": "روشنیاں بند کرنا",
+	"sentence": "The power went dead and everything blacked out.",
+	"imp": false
+},
+{
+	"idiom": "Blow hot and cold",
+	"m_e": "To be uncertain",
+	"m_u": "غیرمعقول مزاج",
+	"sentence": "He has been blowing hot and cold about taking a winter vacation.",
+	"imp": true
+},
+{
+	"idiom": "Bread and butter",
+	"m_e": "Basic income",
+	"m_u": "روزی",
+	"sentence": "Teaching at the local college is his bread and butter.",
+	"imp": true
+},
+{
+	"idiom": "Break away",
+	"m_e": "To escape",
+	"m_u": "بھاگ جانا",
+	"sentence": "The prisoners broke away from the prison this morning.",
+	"imp": false
+},
+{
+	"idiom": "Break down",
+	"m_e": "To destroy something",
+	"m_u": "توڑنا",
+	"sentence": "We broke down the wall with big hammers.",
+	"imp": false
+},
+{
+	"idiom": "Break in",
+	"m_e": "To enter some place",
+	"m_u": "کہیں داخل ہونا",
+	"sentence": "The thieves broke in and took all the money.",
+	"imp": false
+},
+{
+	"idiom": "Break into",
+	"m_e": "To begin suddenly",
+	"m_u": "اچانک شروع ہونا",
+	"sentence": "As soon as the movie started, the people behind me broke into loud chatting.",
+	"imp": true
+},
+{
+	"idiom": "Break out",
+	"m_e": "To burst suddenly, escape",
+	"m_u": "اچانک پھیلنا، بھاگنا",
+	"sentence": "A fire broke out in the city, last night.",
+	"imp": true
+},
+{
+	"idiom": "Break the ice",
+	"m_e": "To become friendly",
+	"m_u": "دوستانہ ہونا",
+	"sentence": "It's hard to break the ice at formal events.",
+	"imp": true
+},
+{
+	"idiom": "Break the news",
+	"m_e": "To tell important news",
+	"m_u": "خبر دینا",
+	"sentence": "The TV channels broke the news of massive corruption by public officials.",
+	"imp": false
+},
+{
+	"idiom": "Break up",
+	"m_e": "To destroy something",
+	"m_u": "توڑنا یا ختم کرنا",
+	"sentence": "The police broke up the gambling ring.",
+	"imp": false
+},
+{
+	"idiom": "Break with",
+	"m_e": "To separate from",
+	"m_u": "علیحدہ کرنا",
+	"sentence": "On this issue the prime minister was forced to break with his cabinet.",
+	"imp": false
+},
+{
+	"idiom": "Bring about",
+	"m_e": "Make something happen",
+	"m_u": "کوئی کام کرنا، سبب بننا",
+	"sentence": "The new manager decided it was time to bring some changes about.",
+	"imp": false
+},
+{
+	"idiom": "Bring home",
+	"m_e": "Make perfectly clear",
+	"m_u": "واضح کرنا",
+	"sentence": "The professor gave a lecture that brought home some important points.",
+	"imp": false
+},
+{
+	"idiom": "Bring in",
+	"m_e": "To include someone",
+	"m_u": "کسی کو شامل کرنا",
+	"sentence": "Please bring in a specialist to advise on this case.",
+	"imp": false
+},
+{
+	"idiom": "Bring to light",
+	"m_e": "Reveal something to the public",
+	"m_u": "کوئی چیز عوام پر ظاہر کرنا",
+	"sentence": "The newspaper brought the problem to light.",
+	"imp": false
+},
+{
+	"idiom": "Bring up",
+	"m_e": "To raise someone/something",
+	"m_u": "کسی کی پرورش کرنا",
+	"sentence": "We brought the cat up from a kitten.",
+	"imp": false
+},
+{
+	"idiom": "Broken reed",
+	"m_e": "An unreliable support",
+	"m_u": "ناقابلِ اعتماد مدد",
+	"sentence": "I counted on her to help, but she turned out to be a broken reed.",
+	"imp": true
+},
+{
+	"idiom": "Burn the midnight oil",
+	"m_e": "To stay up working late at night",
+	"m_u": "رات دیر تک کام کرنا",
+	"sentence": "I have a big exam tomorrow so I will be burning the midnight oil tonight.",
+	"imp": false
+},
+{
+	"idiom": "Burning question",
+	"m_e": "An urgent or crucial issue",
+	"m_u": "اہم مسئلہ",
+	"sentence": "Real estate taxes are always a burning question for everyone.",
+	"imp": false
+},
+{
+	"idiom": "Bury the hatchet",
+	"m_e": "To make peace, to end a fight",
+	"m_u": "دشمنی ختم کرنا",
+	"sentence": "Mark and I buried the hatchet and we are good friends now.",
+	"imp": false
+},
+{
+	"idiom": "By and by",
+	"m_e": "As time passes",
+	"m_u": "وقت گزرنے کے ساتھ",
+	"sentence": "The weather is sure to clear up by and by.",
+	"imp": false
+},
+{
+	"idiom": "By and large",
+	"m_e": "Generally, Usually",
+	"m_u": "مجموعی طور پر",
+	"sentence": "There are a few things that I don't like about my job, but by and large it's just fine.",
+	"imp": false
+},
+{
+	"idiom": "By dint of",
+	"m_e": "Because of something",
+	"m_u": "کسی چیز کی وجہ سے",
+	"sentence": "They got the building finished on time by dint of hard work and good organisation.",
+	"imp": false
+},
+{
+	"idiom": "By fits and starts",
+	"m_e": "Inconsistent",
+	"m_u": "بےقاعدگی سے",
+	"sentence": "He failed the exam because he studies by fits and starts.",
+	"imp": false
+},
+{
+	"idiom": "By hook or by crook",
+	"m_e": "By all means",
+	"m_u": "جائز ناجائز طریقے سے",
+	"sentence": "I decided that I was going to get that job by hook or by crook.",
+	"imp": false
+},
+{
+	"idiom": "Bank on someone/something",
+	"m_e": "To depend on someone/something",
+	"m_u": "کسی چیز پر انحصار کرنا",
+	"sentence": "ٰThis project banks on the engineers and management.",
+	"imp": false
+},
+{
+	"idiom": "Bear the brunt of",
+	"m_e": "To receive larger part of something",
+	"m_u": "کسی چیز کا بڑا حصہ ملنا",
+	"sentence": "Ordinary citizens will bear the brunt of higher taxes.",
+	"imp": false
+},
+{
+	"idiom": "Before long",
+	"m_e": "Soon",
+	"m_u": "جلد",
+	"sentence": "If we keep spending so much, before long we'll be out of money.",
+	"imp": false
+},
+{
+	"idiom": "Beside oneself (with something)",
+	"m_e": "In extreme state of emotion",
+	"m_u": "آپے سے باہر ہونا",
+	"sentence": "Sarah was beside herself with anger.",
+	"imp": false
+},
+{
+	"idiom": "Bitter pill to swallow",
+	"m_e": "An unpleasant fact",
+	"m_u": "تلخ حقیقت",
+	"sentence": "We found his deception a bitter pill to swallow.",
+	"imp": false
+},
+{
+	"idiom": "To blow one's own horn/trumpet",
+	"m_e": "To brag about oneself",
+	"m_u": "اپنے منہ میاں مٹھو بننا",
+	"sentence": "He kept on blowing his own trumpet for about an hour.",
+	"imp": false
+},
+{
+	"idiom": "Blue blood",
+	"m_e": "The blood of a noble family",
+	"m_u": "امیر گھرانے کا، اشرافیہ",
+	"sentence": "Because his great-grandparents made millions, he is regarded as one of the city's blue bloods.",
+	"imp": false
+},
+{
+	"idiom": "Born with a silver spoon in one's mouth",
+	"m_e": "From a rich family",
+	"m_u": "امیر گھرانے سے",
+	"sentence": "His complete lack of concern about money is natural of someone who was born with a silver spoon in their mouth.",
+	"imp": false
+},
+{
+	"idiom": "Bring into question",
+	"m_e": "To cause something to be questioned",
+	"m_u": "سوال اُٹھانا",
+	"sentence": "Your presence here has been brought into question.",
+	"imp": false
+},
+{
+	"idiom": "Build castles in the air/in Spain",
+	"m_e": "To daydream",
+	"m_u": "ہوائی قلعے تعمیر کرنا",
+	"sentence": "I told him he should stop building castles in the air and train for a sensible profession.",
+	"imp": false
+},
+{
+	"idiom": "Burst into tears",
+	"m_e": "To cry suddenly",
+	"m_u": "اچانک آنسو نکل آنا",
+	"sentence": "She burst into tears when she read the letter.",
+	"imp": false
+},
+{
+	"idiom": "Butter (someone) up",
+	"m_e": "To flatter someone",
+	"m_u": "خوش آمد کرنا",
+	"sentence": "If you butter up Dad, he'll let you borrow the car.",
+	"imp": false
+},
+{
+	"idiom": "By all means",
+	"m_e": "Certainly, In every possible way",
+	"m_u": "ہر طرح سے",
+	"sentence": "I will attempt to get there by all means",
+	"imp": false
+},
+{
+	"idiom": "By virtue of (something)",
+	"m_e": "As a result of, because of",
+	"m_u": "کی وجہ سے",
+	"sentence": "They achieved victory by virtue of superior military strength.",
+	"imp": false
+},
+{
+	"idiom": "Burn one's fingers",
+	"m_e": "Harm oneself",
+	"m_u": "اپنا نقصان کرنا",
+	"sentence": "I'm staying away from risky stocks so I don't burn my fingers.",
+	"imp": false
+},
+{
+	"idiom": "By leaps and bounds",
+	"m_e": "With rapid progress",
+	"m_u": "تیزرفتاری سے",
+	"sentence": "Our productivity improved in leaps and bounds.",
+	"imp": false
+},
+{
+	"idiom": "Call for",
+	"m_e": "To need or demand something",
+	"m_u": "مطالبہ کرنا",
+	"sentence": "This job calls for someone with experience.",
+	"imp": false
+},
+{
+	"idiom": "Call in",
+	"m_e": "To request to come",
+	"m_u": "درخواست کرنا",
+	"sentence": "We called in another specialist for an opinion.",
+	"imp": false
+},
+{
+	"idiom": "Call into question",
+	"m_e": "To doubt",
+	"m_u": "شک کرنا",
+	"sentence": "The report's findings call into question the safety of all such medicines.",
+	"imp": false
+},
+{
+	"idiom": "Call off",
+	"m_e": "To cancel an event",
+	"m_u": "ملتوی کرنا",
+	"sentence": "Because of rain, they called off the baseball game.",
+	"imp": false
+},
+{
+	"idiom": "Call on (someone)",
+	"m_e": "To visit someone",
+	"m_u": "کسی سے ملاقات کرنا",
+	"sentence": "He calls on his mother every day.",
+	"imp": true
+},
+{
+	"idiom": "Capital punishment",
+	"m_e": "Death penalty",
+	"m_u": "سزائے موت",
+	"sentence": "Capital punishment is abolished in many parts of the world.",
+	"imp": false
+},
+{
+	"idiom": "Carry out",
+	"m_e": "To perform a task",
+	"m_u": "کوئی کام کرنا",
+	"sentence": "The students didn't carry out their assignments.",
+	"imp": true
+},
+{
+	"idiom": "Carry the day",
+	"m_e": "To be successful",
+	"m_u": "کامیاب ہونا",
+	"sentence": "Our team didn't play well at first, but we won the day in the end.",
+	"imp": false
+},
+{
+	"idiom": "Carry weight",
+	"m_e": "To have influence",
+	"m_u": "موثر ہونا",
+	"sentence": "Her opinion carries a lot of weight.",
+	"imp": false
+},
+{
+	"idiom": "Cast down",
+	"m_e": "To discourage",
+	"m_u": "مایوس کرنا",
+	"sentence": "He is cast down because of the bad news.",
+	"imp": false
+},
+{
+	"idiom": "Cheek by jowl",
+	"m_e": "Side by side, together",
+	"m_u": "ساتھ ساتھ",
+	"sentence": "The two families lived cheek by jowl in one house.",
+	"imp": false
+},
+{
+	"idiom": "Close shave",
+	"m_e": "A narrow escape",
+	"m_u": "بال بال بچنا",
+	"sentence": "They had a close shave this morning in an accident.",
+	"imp": false
+},
+{
+	"idiom": "Cold blood",
+	"m_e": "Ruthlessly",
+	"m_u": "بے رحمی سے",
+	"sentence": "The whole family was murdered in cold blood.",
+	"imp": false
+},
+{
+	"idiom": "Come by",
+	"m_e": "To find something, to stop for a visit",
+	"m_u": "کچھ ملنا یا کہیں رکنا",
+	"sentence": "How did you come by that haircut? OR Please come by our home sometime.",
+	"imp": false
+},
+{
+	"idiom": "Come of",
+	"m_e": "Result of something",
+	"m_u": "کسی چیز کا نتیجہ",
+	"sentence": "Very little came of our efforts to control the outbreak of smallpox.",
+	"imp": false
+},
+{
+	"idiom": "Come of age",
+	"m_e": "To develop completely",
+	"m_u": "بالغ ہونا",
+	"sentence": "Your son's children have now come of age.",
+	"imp": false
+},
+{
+	"idiom": "Come off",
+	"m_e": "To happen",
+	"m_u": "واقع ہونا",
+	"sentence": "When does this festival come off?",
+	"imp": false
+},
+{
+	"idiom": "Come out",
+	"m_e": "To emerge, to exit",
+	"m_u": "اُبھرنا یا نکلنا",
+	"sentence": "When will they come out of that meeting?",
+	"imp": false
+},
+{
+	"idiom": "Come round",
+	"m_e": "To wake up",
+	"m_u": "جاگنا",
+	"sentence": "He came around after we threw cold water on his face.",
+	"imp": false
+},
+{
+	"idiom": "Come to",
+	"m_e": "To become conscious",
+	"m_u": "ہوش میں آنا",
+	"sentence": "The injured driver came to after some time.",
+	"imp": false
+},
+{
+	"idiom": "Crocodile tears",
+	"m_e": "False display of sadness",
+	"m_u": "مگرمچھ کے آنسو",
+	"sentence": "The prime minister's crocodile tears belie the government's involvement with the massacre of its citizens.",
+	"imp": false
+},
+{
+	"idiom": "Cry for the moon",
+	"m_e": "An impractical request/wish",
+	"m_u": "لاحاصل کی خواہش",
+	"sentence": "He cried for the moon by saying that he wants a new car.",
+	"imp": false
+},
+{
+	"idiom": "Cut a sorry figure",
+	"m_e": "To be ashamed",
+	"m_u": "شرمندہ ہونا",
+	"sentence": "She cut a sorry figure after she failed in exams.",
+	"imp": true
+},
+{
+	"idiom": "Cut down",
+	"m_e": "Reduce something",
+	"m_u": "کم کرنا",
+	"sentence": "The doctor told him to cut down on his drugs.",
+	"imp": true
+},
+{
+	"idiom": "Casting vote",
+	"m_e": "The deciding vote",
+	"m_u": "فیصلہ کن ووٹ",
+	"sentence": "The casting vote was against the cruel taxes.",
+	"imp": false
+},
+{
+	"idiom": "Cast pearls before swine",
+	"m_e": "To waste something good",
+	"m_u": "بھینس کے آگے بین بجانا",
+	"sentence": "The protest of civil servants is same as casting pearls before swine.",
+	"imp": false
+},
+{
+	"idiom": "Catch (someone) red-handed",
+	"m_e": "To someone in the act of doing something",
+	"m_u": "رنگے ہاتھوں پکڑنا",
+	"sentence": "Tom was caught red-handed stealing the car.",
+	"imp": false
+},
+{
+	"idiom": "Cock-and-bull story",
+	"m_e": "A false, made-up story",
+	"m_u": "من گھڑت کہانی",
+	"sentence": "I asked for an explanation, and all I got was your ridiculous cock-and-bull story!",
+	"imp": false
+},
+{
+	"idiom": "Cold comfort",
+	"m_e": "No comfort or consolation",
+	"m_u": "حقیر تسلی",
+	"sentence": "It was cold comfort to the student that others had failed as he had done.",
+	"imp": false
+},
+{
+	"idiom": "Come down hard on (someone)",
+	"m_e": "To scold someone",
+	"m_u": "سخت سزا دینا",
+	"sentence": "The federation came down hard on the players who weren't obeying rules.",
+	"imp": false
+},
+{
+	"idiom": "Come to blows",
+	"m_e": "To start fighting",
+	"m_u": "لڑنا",
+	"sentence": "Let's not come to blows over this silly disagreement.",
+	"imp": false
+},
+{
+	"idiom": "Come to grief",
+	"m_e": "To experience something unpleasant",
+	"m_u": "مایوسی کا سامنا",
+	"sentence": "In the end, he came to grief because he did not follow instructions.",
+	"imp": false
+},
+{
+	"idiom": "Come to terms with (someone/something)",
+	"m_e": "To begin to accept something",
+	"m_u": "سمجھوتا کرنا",
+	"sentence": "We finally came to terms with the bank and bought the house.",
+	"imp": false
+},
+{
+	"idiom": "Crux of the matter",
+	"m_e": "Critical point, main idea",
+	"m_u": "لبِ لباب",
+	"sentence": "The second paragraph of this essay is the crux of the matter.",
+	"imp": false
+},
+{
+	"idiom": "Cry wolf",
+	"m_e": "To complain when nothing is wrong",
+	"m_u": "جھوٹ موٹ کی شکایت کرنا",
+	"sentence": "Don't cry wolf too often. No one will help you.",
+	"imp": false
+},
+{
+	"idiom": "Cut off",
+	"m_e": "To interrupt someone, to isolate someone/something",
+	"m_u": "بات میں مداخلت، الگ کرنا",
+	"sentence": "In the middle of her sentence, the teacher cut her off and started explaining.",
+	"imp": false
+},
+{
+	"idiom": "Deal in",
+	"m_e": "To do business of something",
+	"m_u": "کاروبار کرنا",
+	"sentence": "My uncle is a stockbroker. He deals in stocks and bonds.",
+	"imp": false
+},
+{
+	"idiom": "Deliver the goods",
+	"m_e": "To fulfil a promise",
+	"m_u": "وعدہ پورا کرنا",
+	"sentence": "The engineers delivered the goods for the contractor.",
+	"imp": false
+},
+{
+	"idiom": "Die down",
+	"m_e": "To decrease, weaken",
+	"m_u": "کمزور ہونا",
+	"sentence": "The fire died down and went out.",
+	"imp": false
+},
+{
+	"idiom": "Die in harness",
+	"m_e": "To die while being able to work",
+	"m_u": "کام کرتے ہوئے مرنا",
+	"sentence": "Our soldiers die in harness.",
+	"imp": false
+},
+{
+	"idiom": "Do away with",
+	"m_e": "Get rid of something",
+	"m_u": "چھٹکارا حاصل کرنا",
+	"sentence": "The time has come to do away with that old building.",
+	"imp": false
+},
+{
+	"idiom": "Dawn on someone",
+	"m_e": "To realize",
+	"m_u": "واضح ہونا",
+	"sentence": "It dawned on me that I was actually going to have the job.",
+	"imp": false
+},
+{
+	"idiom": "Down and out",
+	"m_e": "Lacking funds",
+	"m_u": "مالی کمی",
+	"sentence": "After losing his job, he was completely down and out.",
+	"imp": false
+},
+{
+	"idiom": "Down to Earth",
+	"m_e": "Realistic",
+	"m_u": "حقیقت میں",
+	"sentence": "It's time the government comes back down to Earth.",
+	"imp": false
+},
+{
+	"idiom": "Down-to-earth",
+	"m_e": "Realistic",
+	"m_u": "عاجز",
+	"sentence": "She is a very down-to-earth person.",
+	"imp": false
+},
+{
+	"idiom": "Draw a line between",
+	"m_e": "To separate things, mark boundary",
+	"m_u": "حد قائم کرنا",
+	"sentence": "We should draw a line between the good and the bad.",
+	"imp": false
+},
+{
+	"idiom": "Eat one's cake and have it too",
+	"m_e": "Having multiple benefits",
+	"m_u": "چٹ بھی میرا پٹ بھی میرا",
+	"sentence": "He is trying to eat his cake and have it too by investing in two companies.",
+	"imp": false
+},
+{
+	"idiom": "Ebb and flow",
+	"m_e": "Decrease then increase",
+	"m_u": "اُتار چڑھاو",
+	"sentence": "He was fascinated by the ebb and flow of the Church's influence over the centuries.",
+	"imp": false
+},
+{
+	"idiom": "Egg (someone) on",
+	"m_e": "Encourage, excite",
+	"m_u": "کسی کو اُکسانا",
+	"sentence": "John wouldn't have done the dangerous experiment if his brother hadn't egged him on.",
+	"imp": false
+},
+{
+	"idiom": "Eke out (a living)",
+	"m_e": "To add to something",
+	"m_u": "اضافہ کرنا",
+	"sentence": "He worked at two jobs in order to eke his income out",
+	"imp": false
+},
+{
+	"idiom": "Eat humble pie",
+	"m_e": "To act humble on mistake",
+	"m_u": "غلطی تسلیم کرنا",
+	"sentence": "The manager ate humble pie for his wrong planning.",
+	"imp": false
+},
+{
+	"idiom": "End in smoke",
+	"m_e": "To come to nothing",
+	"m_u": "بےکار جانا",
+	"sentence": "His corruption plans ended in smoke.",
+	"imp": true
+},
+{
+	"idiom": "End up",
+	"m_e": "Finish",
+	"m_u": "ختم ہونا",
+	"sentence": "She ended up her speech with a poem.",
+	"imp": false
+},
+{
+	"idiom": "Every inch",
+	"m_e": "Completely",
+	"m_u": "مکمل طور پر",
+	"sentence": "He was every inch a leader.",
+	"imp": false
+},
+{
+	"idiom": "Eye opening",
+	"m_e": "Shocking",
+	"m_u": "حیران کُن",
+	"sentence": "The investigation was eye opening for everyone.",
+	"imp": false
+},
+{
+	"idiom": "Face the music",
+	"m_e": "To receive punishment",
+	"m_u": "اپنے اعمال کی سزا بھگتنا",
+	"sentence": "After failing a math test, Tom had to go home and face the music.",
+	"imp": true
+},
+{
+	"idiom": "Fair play",
+	"m_e": "Obey rules",
+	"m_u": "جائز طریقہ سے",
+	"sentence": "The World Cup organisers are keen to promote the idea of fair play.",
+	"imp": false
+},
+{
+	"idiom": "Fair sex",
+	"m_e": "Girls or women",
+	"m_u": "خواتین",
+	"sentence": "Many women would object to being called the fair sex nowadays.",
+	"imp": true
+},
+{
+	"idiom": "Fair-weather friend",
+	"m_e": "Friend in good times only",
+	"m_u": "مطلبی دوست",
+	"sentence": "A fair-weather friend isn't much help in an emergency.",
+	"imp": false
+},
+{
+	"idiom": "Fall a prey to",
+	"m_e": "To be hunted",
+	"m_u": "شکار ہونا",
+	"sentence": "The rats fall a prey to the eagle.",
+	"imp": false
+},
+{
+	"idiom": "Fall back on",
+	"m_e": "To depend on something",
+	"m_u": "سہارا لینا",
+	"sentence": "When he lost his job he had to fall back upon his savings.",
+	"imp": false
+},
+{
+	"idiom": "Fall in with",
+	"m_e": "Agree with",
+	"m_u": "متفق ہونا",
+	"sentence": "The statement falls in exactly with my view.",
+	"imp": false
+},
+{
+	"idiom": "Fall off",
+	"m_e": "To decline",
+	"m_u": "نیچے گِرنا",
+	"sentence": "Business falls off during the summer months.",
+	"imp": true
+},
+{
+	"idiom": "Fall out",
+	"m_e": "To Topple out of something, To disagree",
+	"m_u": "گِرنا یا اختلاف",
+	"sentence": "Mary fell out of the tree and hurt herself. OR Bill fell out with Sara over the question of buying a new car.",
+	"imp": false
+},
+{
+	"idiom": "Feather in one's cap",
+	"m_e": "One's accomplishment",
+	"m_u": "اعزاز",
+	"sentence": "The Medal of Honor is a feather in his cap.",
+	"imp": false
+},
+{
+	"idiom": "Fed up with",
+	"m_e": "Bored of someone/something",
+	"m_u": "تنگ آجانا",
+	"sentence": "I got fed up with the noisy neighbours.",
+	"imp": false
+},
+{
+	"idiom": "Few and far between",
+	"m_e": "Few and widely scattered.",
+	"m_u": "بہت کم",
+	"sentence": "Service stations on this highway are few and far between.",
+	"imp": false
+},
+{
+	"idiom": "Find fault with",
+	"m_e": "To criticise",
+	"m_u": "نکتہ چینی کرنا",
+	"sentence": "She finds fault in every movie.",
+	"imp": false
+},
+{
+	"idiom": "Fly in the ointment",
+	"m_e": "A drawback",
+	"m_u": "کمزوری",
+	"sentence": "The fly in the ointment is the fact that the UN has not approved the peace plan.",
+	"imp": false
+},
+{
+	"idiom": "For good",
+	"m_e": "Forever",
+	"m_u": "ہمیشہ کے لئے",
+	"sentence": "They repaired the car many times before they bought a new one for good.",
+	"imp": false
+},
+{
+	"idiom": "For the sake of",
+	"m_e": "For someone's/something's good",
+	"m_u": "کسی کی خاطر",
+	"sentence": "We have to stop fighting for the sake of national unity.",
+	"imp": false
+},
+{
+	"idiom": "For want of",
+	"m_e": "Lack of",
+	"m_u": "کمی",
+	"sentence": "He fell ill for want of sleep and rest.",
+	"imp": false
+},
+{
+	"idiom": "French leave",
+	"m_e": "Leave without permission",
+	"m_u": "اجازت کے بغیر چھٹی",
+	"sentence": "Is he really ill again, or is he just taking French leave?",
+	"imp": false
+},
+{
+	"idiom": "From hand to mouth",
+	"m_e": "Only bare essentials, poverty",
+	"m_u": "غربت، مشکل سے",
+	"sentence": "After she lost her job she was living from hand to mouth.",
+	"imp": false
+},
+{
+	"idiom": "Face to face",
+	"m_e": "One to one",
+	"m_u": "آمنے سامنے",
+	"sentence": "We had a face to face meeting with the CEO.",
+	"imp": false
+},
+{
+	"idiom": "Fall head over heels in love with",
+	"m_e": "To fall deeply in love",
+	"m_u": "محبت میں گرفتار ہونا",
+	"sentence": "Mr. Chips fell head over heels in love with Katherine.",
+	"imp": false
+},
+{
+	"idiom": "Fall short of",
+	"m_e": "Insufficient",
+	"m_u": "ناکافی",
+	"sentence": "Sales for the first half of the year fell short of the target.",
+	"imp": false
+},
+{
+	"idiom": "Far cry from (something)",
+	"m_e": "Very different",
+	"m_u": "مختلف",
+	"sentence": "This food is a far cry from what we got in the cafeteria.",
+	"imp": false
+},
+{
+	"idiom": "Feast one's eyes on (someone/something)",
+	"m_e": "Delighted be sight of",
+	"m_u": "دیکھ کر خوشی ہونا",
+	"sentence": "We feasted our eyes on the delicious food.",
+	"imp": false
+},
+{
+	"idiom": "Feather one's nest",
+	"m_e": "To get wealthy because of one's position",
+	"m_u": "ناجائز فائدہ اُٹھانا",
+	"sentence": "The corrupt ministers are feathering their nests.",
+	"imp": false
+},
+{
+	"idiom": "Feel sorry for (someone)",
+	"m_e": "To feel compassion",
+	"m_u": "رحم آنا",
+	"sentence": "I feel sorry for the poor people.",
+	"imp": false
+},
+{
+	"idiom": "Finger in the pie",
+	"m_e": "A sign of one's involvement",
+	"m_u": "ملوث ہونا",
+	"sentence": "The detective said that three people had fingers in the pie.",
+	"imp": false
+},
+{
+	"idiom": "First and foremost",
+	"m_e": "Most important",
+	"m_u": "سب سے اہم",
+	"sentence": "First and foremost, I think you should work harder on your mathematics.",
+	"imp": false
+},
+{
+	"idiom": "Fish in troubled waters",
+	"m_e": "To seek personal benefit in difficult times",
+	"m_u": "مشکل وقت میں ذاتی فائدہ اُٹھانا",
+	"sentence": "The corrupt government fishes in troubled waters.",
+	"imp": false
+},
+{
+	"idiom": "Flesh and blood",
+	"m_e": "Blood relative",
+	"m_u": "رشتہ دار",
+	"sentence": "Ahmed is my flesh and blood.",
+	"imp": false
+},
+{
+	"idiom": "Follow in (someone's) footsteps/tracks",
+	"m_e": "To succeed another person",
+	"m_u": "نقشِ قدم پر چلنا",
+	"sentence": "The boy followed in his father's footsteps and became an author.",
+	"imp": false
+},
+{
+	"idiom": "Follow one's heart",
+	"m_e": "Act according to feelings",
+	"m_u": "اپنی مرضی سے",
+	"sentence": "I couldn't decide what to do, so I just followed my heart.",
+	"imp": false
+},
+{
+	"idiom": "Follow suit",
+	"m_e": "To follow pattern/example",
+	"m_u": "تقلید کرنا",
+	"sentence": "Fathers should not smoke because sons follow suit.",
+	"imp": false
+},
+{
+	"idiom": "From scratch",
+	"m_e": "From beginning",
+	"m_u": "آغاز سے",
+	"sentence": "We made the cake from scratch, using no prepared ingredients.",
+	"imp": false
+},
+{
+	"idiom": "Get over",
+	"m_e": "To recover from disease/difficulty",
+	"m_u": "صحت یاب ہونا",
+	"sentence": "It took me some time to get over the flu.",
+	"imp": false
+},
+{
+	"idiom": "Get rid of",
+	"m_e": "Free oneself from",
+	"m_u": "نجات حاصل کرنا",
+	"sentence": "It's time we got rid of these old newspapers.",
+	"imp": false
+},
+{
+	"idiom": "Get through",
+	"m_e": "To get something transported or done",
+	"m_u": "کچھ پہنچانا یا مکمل کرنا",
+	"sentence": "Customs was a mess, but we got through with all our baggage in only twenty minutes.",
+	"imp": false
+},
+{
+	"idiom": "Get up",
+	"m_e": "To wake up",
+	"m_u": "جاگنا",
+	"sentence": "Once I get up and have coffee, I'm ready to work.",
+	"imp": false
+},
+{
+	"idiom": "Get wind of",
+	"m_e": "To hear about something",
+	"m_u": "اُڑتی اُڑتی خبر ملنا",
+	"sentence": "The police got wind of the drug deal.",
+	"imp": false
+},
+{
+	"idiom": "Give and take",
+	"m_e": "Mutual compromise",
+	"m_u": "سمجھوتہ",
+	"sentence": "We reached an agreement after many hours of bargaining and give and take.",
+	"imp": false
+},
+{
+	"idiom": "Give in",
+	"m_e": "To surrender, collapse",
+	"m_u": "ہار مان لینا",
+	"sentence": "The king is foolish if he believes our rebellion will ever give in!",
+	"imp": true
+},
+{
+	"idiom": "Give up",
+	"m_e": "To abandon someone/something",
+	"m_u": "ترک کرنا",
+	"sentence": "The doctor advised me to give up sugar in all forms.",
+	"imp": true
+},
+{
+	"idiom": "Go back on",
+	"m_e": "To fail a promise",
+	"m_u": "وعدہ پورا نا کرسکنا",
+	"sentence": "The mayor has gone back on several promises.",
+	"imp": false
+},
+{
+	"idiom": "Go by",
+	"m_e": "To pass by someone/something",
+	"m_u": "پاس سے گزرنا",
+	"sentence": "We went by Alice without even noticing her.",
+	"imp": false
+},
+{
+	"idiom": "Go off",
+	"m_e": "To explode, to sound",
+	"m_u": "پھٹنا یا شور کرنا",
+	"sentence": "The bomb went off and did a lot of damage. OR The alarm went off at seven o'clock.",
+	"imp": false
+},
+{
+	"idiom": "Go around",
+	"m_e": "To be enough for everyone",
+	"m_u": "ہر ایک کے لئے کافی",
+	"sentence": "There won’t be enough pizza to go around if you take two pieces.",
+	"imp": false
+},
+{
+	"idiom": "Go through",
+	"m_e": "To examine carefully",
+	"m_u": "غور سے جائزہ لینا",
+	"sentence": "The professor went through the students' papers.",
+	"imp": false
+},
+{
+	"idiom": "Go to the dogs",
+	"m_e": "To become worse",
+	"m_u": "بےکار ہوجانا",
+	"sentence": "It is sad that this once first-class hotel has gone to the dogs.",
+	"imp": false
+},
+{
+	"idiom": "Get along with",
+	"m_e": "Have smooth relations",
+	"m_u": "اچھے تعلقات",
+	"sentence": "He gets along with new people.",
+	"imp": false
+},
+{
+	"idiom": "Get the better of (someone)",
+	"m_e": "To win a victory over",
+	"m_u": "کسی سے جیت جانا",
+	"sentence": "Agassi got the better of Becker in the tennis championship.",
+	"imp": false
+},
+{
+	"idiom": "Get-up-and-go",
+	"m_e": "Having energy/ambition",
+	"m_u": "جزبہ",
+	"sentence": "You need a bit of get-up-and-go if you're going to work in the military.",
+	"imp": false
+},
+{
+	"idiom": "Gift of the gab",
+	"m_e": "Ability to speak persuasively",
+	"m_u": "تقریر کی صلاحیت",
+	"sentence": "The guy delivering the speech has a gift of the gab.",
+	"imp": false
+},
+{
+	"idiom": "Give the devil his due",
+	"m_e": "To give foe proper credit",
+	"m_u": "حریف یا کسی کی صلاحیت تسلیم کرنا",
+	"sentence": "John is a bit too nosy, but he keeps his yard clean and is a kind neighbour. I'll give the devil his due.",
+	"imp": false
+},
+{
+	"idiom": "Go to pieces",
+	"m_e": "Fall into pieces, mental collapse",
+	"m_u": "ٹوٹنا یا دماغی توازن کھونا",
+	"sentence": "The vase went to pieces when I put it down. OR Fred went to pieces during the trial.",
+	"imp": false
+},
+{
+	"idiom": "Go without saying",
+	"m_e": "Unambiguous, self-evident",
+	"m_u": "بےشک و شبہ",
+	"sentence": "It goes without saying that success is the product of hard work.",
+	"imp": false
+},
+{
+	"idiom": "Good for nothing",
+	"m_e": "Useless. ('good-for-nothing', if used as a modifier before a noun)",
+	"m_u": "بےکار",
+	"sentence": "The old car is good for nothing.",
+	"imp": false
+},
+{
+	"idiom": "Hale and hearty",
+	"m_e": "Healthy",
+	"m_u": "صحت مند",
+	"sentence": "The calf—hale and hearty—ran around the barnyard.",
+	"imp": false
+},
+{
+	"idiom": "Hard and fast",
+	"m_e": "Defined and invariable",
+	"m_u": "ناقابلِ تبدیل",
+	"sentence": "At this company, we don't have any hard and fast rules.",
+	"imp": false
+},
+{
+	"idiom": "Hand in glove with",
+	"m_e": "In close cooperation",
+	"m_u": "قریب ہونا",
+	"sentence": "They worked hand in glove at our factory.",
+	"imp": false
+},
+{
+	"idiom": "Heart and soul",
+	"m_e": "Completely",
+	"m_u": "مکمل طور پر",
+	"sentence": "Ali studied for the exams with his heart and soul.",
+	"imp": false
+},
+{
+	"idiom": "Here and there",
+	"m_e": "At various places",
+	"m_u": "مختلف جگہوں پر",
+	"sentence": "He worked here and there but never for long in one town.",
+	"imp": false
+},
+{
+	"idiom": "Hold water",
+	"m_e": "To stand up to critical examination",
+	"m_u": "صحت مند ثابت ہونا",
+	"sentence": "The corrupt businessman's explanations do not hold water.",
+	"imp": false
+},
+{
+	"idiom": "Hope against hope",
+	"m_e": "to have hope in a hopeless situation",
+	"m_u": "نااُمیدی کے وقت میں اُمید",
+	"sentence": "I'm hoping against hope that someone will return my lost wallet.",
+	"imp": true
+},
+{
+	"idiom": "Hue and cry",
+	"m_e": "A large public protest",
+	"m_u": "احتجاج، شور و غل",
+	"sentence": "The company's decision to send thousands of jobs overseas started a hue and cry.",
+	"imp": false
+},
+{
+	"idiom": "To live from hand to mouth",
+	"m_e": "To live with bare essentials",
+	"m_u": "مشکل سے گزارا",
+	"sentence": "The poor and even the middle class lives from hand to mouth.",
+	"imp": false
+},
+{
+	"idiom": "Hang around",
+	"m_e": "To be at some place or with someone",
+	"m_u": "کسی جگہ یا کسی کے ساتھ ہونا",
+	"sentence": "Who is this man that is hanging around the department? OR He is hanging around with his friends.",
+	"imp": false
+},
+{
+	"idiom": "Hard nut to crack",
+	"m_e": "Difficult to deal with",
+	"m_u": "مشکل کام",
+	"sentence": "This assignment is a hard nut to crack.",
+	"imp": false
+},
+{
+	"idiom": "Hard up",
+	"m_e": "In need of money",
+	"m_u": "کنگال ہونا",
+	"sentence": "I was so hard up, I couldn't afford to buy food.",
+	"imp": false
+},
+{
+	"idiom": "Harp on (something)",
+	"m_e": "To repeat something",
+	"m_u": "کوئی بات دُہرانا",
+	"sentence": "Stop harping on my mistakes and work on your own.",
+	"imp": false
+},
+{
+	"idiom": "Have clean hands",
+	"m_e": "To be guiltless",
+	"m_u": "بےقصور",
+	"sentence": "The police took him in, but let him go after questioning because he had clean hands.",
+	"imp": false
+},
+{
+	"idiom": "Have nothing to do with (someone/something)",
+	"m_e": "Not associated with someone/something",
+	"m_u": "کوئی تعلق نہ ہونا",
+	"sentence": "Most of the provisions of the new law have nothing to do with terrorism.",
+	"imp": false
+},
+{
+	"idiom": "Hide/bury one's head in sand",
+	"m_e": "Refuse to face something",
+	"m_u": "مصیبت سے سر چُرانا",
+	"sentence": "Brave people do not hide their heads in sand during difficult times.",
+	"imp": false
+},
+{
+	"idiom": "High time",
+	"m_e": "Appropriate time",
+	"m_u": "مناسب وقت",
+	"sentence": "It's high time for the preparation of the test.",
+	"imp": false
+},
+{
+	"idiom": "Hit (someone) below the belt",
+	"m_e": "To deal unfairly",
+	"m_u": "ناجائز فائدہ اُٹھانا",
+	"sentence": "That merchant hits everyone below the belt.",
+	"imp": false
+},
+{
+	"idiom": "Hobson's choice",
+	"m_e": "No alternative",
+	"m_u": "کوئی متبادل نہ ہونا",
+	"sentence": "If you want a yellow car, it's Hobson's choice because the dealer has only one.",
+	"imp": false
+},
+{
+	"idiom": "Hold one's head up",
+	"m_e": "Behave proudly",
+	"m_u": "اپنا وقار برقرار رکھنا",
+	"sentence": "Brian could hold his head up because he'd tried extremely hard.",
+	"imp": false
+},
+{
+	"idiom": "House of cards",
+	"m_e": "Weak structure/foundation",
+	"m_u": "کمزور",
+	"sentence": "Cramming to get good grades makes your knowledge a house of cards.",
+	"imp": false
+},
+{
+	"idiom": "In hot water",
+	"m_e": "In trouble",
+	"m_u": "مشکل میں",
+	"sentence": "John got himself into hot water by being late.",
+	"imp": false
+},
+{
+	"idiom": "In a fix",
+	"m_e": "In difficult situation",
+	"m_u": "مشکل میں",
+	"sentence": "John is in a fix because he lost his wallet.",
+	"imp": true
+},
+{
+	"idiom": "In a nutshell",
+	"m_e": "Very brief",
+	"m_u": "مختصر",
+	"sentence": "The answer, in a nutshell, is no.",
+	"imp": false
+},
+{
+	"idiom": "In black and white",
+	"m_e": "Written or printed",
+	"m_u": "تحریری شکل میں",
+	"sentence": "Your offer sounds good, but I want you to put it in black and white.",
+	"imp": true
+},
+{
+	"idiom": "In full swing",
+	"m_e": "At the peak of activity",
+	"m_u": "پورے جوش میں",
+	"sentence": "In the summer months, things really get into full swing around here.",
+	"imp": false
+},
+{
+	"idiom": "In short",
+	"m_e": "Stated briefly",
+	"m_u": "مختصرً",
+	"sentence": "In short, we have to decide whether to continue losing money or change the way we do business.",
+	"imp": false
+},
+{
+	"idiom": "In the air",
+	"m_e": "Everywhere",
+	"m_u": "ہر جگہ",
+	"sentence": "There is such a feeling of joy in the air.",
+	"imp": false
+},
+{
+	"idiom": "In the same boat",
+	"m_e": "In the same situation",
+	"m_u": "ایک ہی حالت میں",
+	"sentence": "Suddenly Paul was in the same boat as any other worker who had lost a job.",
+	"imp": false
+},
+{
+	"idiom": "In the teeth of",
+	"m_e": "While experiencing difficulties",
+	"m_u": "مشکلات کے باوجود",
+	"sentence": "The road was built in the teeth of fierce opposition from environmentalists.",
+	"imp": false
+},
+{
+	"idiom": "Ill at ease",
+	"m_e": "Uneasy",
+	"m_u": "پریشان",
+	"sentence": "I feel ill at ease about the interview.",
+	"imp": false
+},
+{
+	"idiom": "In cold blood",
+	"m_e": "With cruel intent",
+	"m_u": "سفاکی سے",
+	"sentence": "He killed his on family in cold blood.",
+	"imp": false
+},
+{
+	"idiom": "In keeping with",
+	"m_e": "Suited to something",
+	"m_u": "کسی چیز کے مطابق",
+	"sentence": "The new windows are in keeping with the colonial style of the house.",
+	"imp": false
+},
+{
+	"idiom": "In the nick of time",
+	"m_e": "Just before it's too late",
+	"m_u": "عین وقت پر",
+	"sentence": "The doctor arrived in the nick of time.",
+	"imp": false
+},
+{
+	"idiom": "In the pink",
+	"m_e": "In very good condition",
+	"m_u": "اچھی حالت میں",
+	"sentence": "After his surgery, he has been in the pink.",
+	"imp": false
+},
+{
+	"idiom": "Ins and outs of",
+	"m_e": "The correct way to do something",
+	"m_u": "صحیح یا مکمل طریقہ",
+	"sentence": "Mark knows the ins and outs of repairing computers.",
+	"imp": false
+},
+{
+	"idiom": "Jack of all trades",
+	"m_e": "Skilled in many different areas",
+	"m_u": "ہرفن مولا",
+	"sentence": "John can do plumbing, carpentry, and roofing—a jack of all trades.",
+	"imp": false
+},
+{
+	"idiom": "Jail bird",
+	"m_e": "Repeatedly jailed criminal",
+	"m_u": "بار بار جیل جانے والا",
+	"sentence": "Mike had spent most of his life as a jail bird.",
+	"imp": true
+},
+{
+	"idiom": "Keep abreast of",
+	"m_e": "To have latest information",
+	"m_u": "جدید معلومات ہونا",
+	"sentence": "This new service helps doctors keep abreast of the newest drugs available.",
+	"imp": false
+},
+{
+	"idiom": "Keep from",
+	"m_e": "To avoid something",
+	"m_u": "دور رہنا",
+	"sentence": "I could hardly keep myself from the dessert table.",
+	"imp": false
+},
+{
+	"idiom": "Keep pace with",
+	"m_e": "To move with",
+	"m_u": "ساتھ ساتھ چلنا",
+	"sentence": "The salaries are not keeping pace with inflation.",
+	"imp": false
+},
+{
+	"idiom": "Kick the bucket",
+	"m_e": "To die",
+	"m_u": "فوت ہوجانا",
+	"sentence": "The old man kicked the bucket last night.",
+	"imp": false
+},
+{
+	"idiom": "Kith and kin",
+	"m_e": "Relative",
+	"m_u": "رشتہ دار",
+	"sentence": "I was delighted to find all my kith and kin waiting for me at the airport.",
+	"imp": true
+},
+{
+	"idiom": "Keep body and soul together",
+	"m_e": "Survive with little money",
+	"m_u": "کم دولت ہوتے ہوئے زندہ رہنا",
+	"sentence": "I don't earn enough money to keep body and soul together.",
+	"imp": false
+},
+{
+	"idiom": "Keep one's word",
+	"m_e": "Fulfil one's promise",
+	"m_u": "وعدہ پورا کرنا",
+	"sentence": "You can count on Richard; he'll keep his word.",
+	"imp": false
+},
+{
+	"idiom": "Keep the wolf from the door",
+	"m_e": "To keep from starving",
+	"m_u": "گُزارا کرنا",
+	"sentence": "I don't make a lot of money, just enough to keep the wolf from the door.",
+	"imp": false
+},
+{
+	"idiom": "Keep up appearances",
+	"m_e": "To make things look alright",
+	"m_u": "خراب حالات کو ٹھیک ظاہر کرنا",
+	"sentence": "Things may be unpleasant, but we will keep up appearances.",
+	"imp": false
+},
+{
+	"idiom": "Keep up with",
+	"m_e": "To stay equal with someone/something",
+	"m_u": "ساتھ ساتھ چلنا",
+	"sentence": "You're running so fast that I cannot keep up with you.",
+	"imp": false
+},
+{
+	"idiom": "Kill time",
+	"m_e": "To use up time",
+	"m_u": "وقت گُزارنا",
+	"sentence": "I killed time reading a novel.",
+	"imp": false
+},
+{
+	"idiom": "Knit one's brows",
+	"m_e": "To frown",
+	"m_u": "ناگواری کا اظہار کرنا",
+	"sentence": "The librarian knitted his brows when the students made noise.",
+	"imp": false
+},
+{
+	"idiom": "Lame excuse",
+	"m_e": "False excuse",
+	"m_u": "جھوٹا بہانا",
+	"sentence": "The boss doesn't like employees who make lame excuses.",
+	"imp": false
+},
+{
+	"idiom": "Laughing stock",
+	"m_e": "Subject of mockery",
+	"m_u": "جس پر لوگ ہنسیں",
+	"sentence": "If I mess up this speech, I'll be the laughing stock of the school!",
+	"imp": false
+},
+{
+	"idiom": "Lay by",
+	"m_e": "To save something",
+	"m_u": "کوئی چیز بچانا",
+	"sentence": "Wise men lay by some money for hard times.",
+	"imp": false
+},
+{
+	"idiom": "Lead (someone) by the nose",
+	"m_e": "To guide someone carefully",
+	"m_u": "کسی کی رہنمائی کرنا",
+	"sentence": "He will never find his way in New York unless you lead him by the nose.",
+	"imp": true
+},
+{
+	"idiom": "Let in",
+	"m_e": "Allow someone/something to enter",
+	"m_u": "داخلے کی اجازت دینا",
+	"sentence": "I opened a window to let in some fresh air.",
+	"imp": false
+},
+{
+	"idiom": "Let the cat out of the bag",
+	"m_e": "Reveal a secret by accident",
+	"m_u": "غلطی سے راز ظاہر کرنا",
+	"sentence": "When Bill glanced at the door, he let the cat out of the bag because we knew then that he was expecting someone to arrive.",
+	"imp": false
+},
+{
+	"idiom": "Lion's share",
+	"m_e": "Greater part of something",
+	"m_u": "کسی چیز کا بڑا حصہ",
+	"sentence": "As usual, my brother took the lion's share of the cake.",
+	"imp": false
+},
+{
+	"idiom": "Long and short",
+	"m_e": "In short",
+	"m_u": "مختصر",
+	"sentence": "The long and short of this report is that the company is in loss.",
+	"imp": false
+},
+{
+	"idiom": "Look after",
+	"m_e": "To take care of",
+	"m_u": "خیال رکھنا",
+	"sentence": "He looks after his younger brother.",
+	"imp": false
+},
+{
+	"idiom": "Look down upon",
+	"m_e": "Consider someone inferior",
+	"m_u": "حقارت سے دیکھنا",
+	"sentence": "We should not look down upon anyone.",
+	"imp": true
+},
+{
+	"idiom": "Look for",
+	"m_e": "To seek someone/something",
+	"m_u": "تلاش کرنا",
+	"sentence": "He was looking for his brother.",
+	"imp": false
+},
+{
+	"idiom": "Look forward to",
+	"m_e": "To anticipate something",
+	"m_u": "منتظر ہونا",
+	"sentence": "I'm really looking forward to your visit next week.",
+	"imp": false
+},
+{
+	"idiom": "Look into",
+	"m_e": "To investigate something",
+	"m_u": "چھان بین کرنا",
+	"sentence": "A federal grand jury is looking into the new law.",
+	"imp": false
+},
+{
+	"idiom": "Look sharp",
+	"m_e": "To be alert",
+	"m_u": "ہوشیار رہنا",
+	"sentence": "The team must look sharp if they want to win.",
+	"imp": false
+},
+{
+	"idiom": "Last straw",
+	"m_e": "The last of irritations that leads to loss of patience",
+	"m_u": "غصہ دلانے والی بات",
+	"sentence": "He has been late before, but this is the last straw.",
+	"imp": false
+},
+{
+	"idiom": "Lead a dog's life",
+	"m_e": "Live a petty life",
+	"m_u": "ذلت آمیز زندگی گزارنا",
+	"sentence": "Nowadays the middle class is leading a dog's life because of inflation.",
+	"imp": false
+},
+{
+	"idiom": "Let bygones be bygones",
+	"m_e": "To forgive someone",
+	"m_u": "معاف کرنا",
+	"sentence": "We should let bygones be bygones and move on to more important things.",
+	"imp": false
+},
+{
+	"idiom": "Let someone down",
+	"m_e": "Fail to support someone, disappoint someone",
+	"m_u": "توقعات پر نہ اُترنا",
+	"sentence": "The team didn't want to let down the coach.",
+	"imp": false
+},
+{
+	"idiom": "Lose heart",
+	"m_e": "To lose courage/confidence",
+	"m_u": "حوصلہ ہارنا",
+	"sentence": "When the other troops failed to arrive, the men lost heart and surrendered.",
+	"imp": false
+},
+{
+	"idiom": "Lose one's temper",
+	"m_e": "To become angry at someone/something",
+	"m_u": "کسی پر غصہ ہونا",
+	"sentence": "I hate to lose my temper at someone.",
+	"imp": false
+},
+{
+	"idiom": "Loud mouth",
+	"m_e": "A person who talks a lot",
+	"m_u": "منہ پھٹ",
+	"sentence": "If I knew you were a loud mouth, I'd have never shared my secret with you!",
+	"imp": false
+},
+{
+	"idiom": "Maiden speech",
+	"m_e": "First speech",
+	"m_u": "پہلی تقریر",
+	"sentence": "He cut a fine figure in his maiden speech.",
+	"imp": false
+},
+{
+	"idiom": "Make both ends meet",
+	"m_e": "To cover basic expenses",
+	"m_u": "گزارا کرنا",
+	"sentence": "I have to work at two jobs to make ends meet.",
+	"imp": false
+},
+{
+	"idiom": "Make good",
+	"m_e": "Succeed at something",
+	"m_u": "کامیاب ہونا",
+	"sentence": "Bob worked hard to make good at selling.",
+	"imp": false
+},
+{
+	"idiom": "Make up",
+	"m_e": "To redo something",
+	"m_u": "تلافی کرنا",
+	"sentence": "Can I make up the test that I missed?",
+	"imp": false
+},
+{
+	"idiom": "Move heaven and Earth",
+	"m_e": "To do everything possible",
+	"m_u": "ہر ممکن کوشش کرنا",
+	"sentence": "I moved heaven and Earth to get you that job.",
+	"imp": false
+},
+{
+	"idiom": "Maiden voyage",
+	"m_e": "A ship's first voyage",
+	"m_u": "پہلا سمندری سفر",
+	"sentence": "The Titanic sank on its maiden voyage.",
+	"imp": false
+},
+{
+	"idiom": "Make a clean breast of (something)",
+	"m_e": "Tell the truth about something",
+	"m_u": "اعترافِ جرم کرنا",
+	"sentence": "He made a clean breast of his corruption.",
+	"imp": false
+},
+{
+	"idiom": "Make a face (at someone)",
+	"m_e": "To ridicule",
+	"m_u": "منہ چڑھانا",
+	"sentence": "The little girl made a face at her brother.",
+	"imp": false
+},
+{
+	"idiom": "Make amends for (something)",
+	"m_e": "To compensate",
+	"m_u": "تلافی کرنا",
+	"sentence": "I worked hard to make amends for my losses.",
+	"imp": false
+},
+{
+	"idiom": "Make away with",
+	"m_e": "To take away something",
+	"m_u": "کوئی چیز لے بھاگنا",
+	"sentence": "The cat made away with the piece of meat.",
+	"imp": false
+},
+{
+	"idiom": "Make up (one's) mind",
+	"m_e": "To decide something",
+	"m_u": "فیصلہ کرنا",
+	"sentence": "She has made up her mind to join the army.",
+	"imp": false
+},
+{
+	"idiom": "Mend one's way",
+	"m_e": "Improve one's behaviour",
+	"m_u": "عادات سنوارنا",
+	"sentence": "Threatened with suspension, Jerry promised to mend his ways.",
+	"imp": false
+},
+{
+	"idiom": "Mind one's own business",
+	"m_e": "Pay attention to one's own affairs",
+	"m_u": "اپنے کام سے کام رکھنا",
+	"sentence": "If he would only mind his own business, there would be fewer quarrels.",
+	"imp": false
+},
+{
+	"idiom": "Miss the boat/bus",
+	"m_e": "To lose an opportunity",
+	"m_u": "موقع گنوا دینا",
+	"sentence": "They are missing the boat on improving relations with Russia.",
+	"imp": false
+},
+{
+	"idiom": "Muster up courage",
+	"m_e": "Gather courage",
+	"m_u": "حوصلہ جمع کرنا",
+	"sentence": "Do you think you can muster enough courage up to do the job?",
+	"imp": false
+},
+{
+	"idiom": "Nip in the bud",
+	"m_e": "Put an end to something",
+	"m_u": "جڑ سے خاتمہ کرنا",
+	"sentence": "If this problem isn't nipped in the bud, it will soon get totally out of hand.",
+	"imp": true
+},
+{
+	"idiom": "Now and then",
+	"m_e": "Occasionally, sometimes",
+	"m_u": "کبھی کبھار",
+	"sentence": "I read a novel every now and again.",
+	"imp": false
+},
+{
+	"idiom": "Null and void",
+	"m_e": "Having no legal effect",
+	"m_u": "کالعدم",
+	"sentence": "The court declared the law to be null and void.",
+	"imp": true
+},
+{
+	"idiom": "Nail in (someone's) coffin",
+	"m_e": "Something that will destroy something",
+	"m_u": "تباہی کی وجہ",
+	"sentence": "Losing their biggest customer was the final nail in the company's coffin.",
+	"imp": false
+},
+{
+	"idiom": "Off and on",
+	"m_e": "Irregularly",
+	"m_u": "بےقاعدگی سے",
+	"sentence": "I've been exercising off and on for a while now.",
+	"imp": false
+},
+{
+	"idiom": "Offhand",
+	"m_e": "Without preparation or forethought",
+	"m_u": "بغیر سوچے",
+	"sentence": "Offhand, I can't think of a better solution than this.",
+	"imp": false
+},
+{
+	"idiom": "Off hands",
+	"m_e": "No longer one's responsibility",
+	"m_u": "ذمہ داری نہ ہونا",
+	"sentence": "We finally got that project off out hands.",
+	"imp": false
+},
+{
+	"idiom": "On the eve of",
+	"m_e": "Just before something",
+	"m_u": "کسی موقع پر",
+	"sentence": "The team held a party on the eve of the tournament.",
+	"imp": false
+},
+{
+	"idiom": "On the whole",
+	"m_e": "Considering everything",
+	"m_u": "مجموعی طور پر",
+	"sentence": "On the whole, this idea is very good.",
+	"imp": false
+},
+{
+	"idiom": "Once in a blue moon",
+	"m_e": "Very seldom, almost never",
+	"m_u": "کبھی کبھار",
+	"sentence": "My sister lives in Spain, so I only get to see her once in a blue moon.",
+	"imp": false
+},
+{
+	"idiom": "Out-and-out",
+	"m_e": "Complete, absolute",
+	"m_u": "مکمل",
+	"sentence": "That singer is an out-and-out genius when it comes to writing music!",
+	"imp": false
+},
+{
+	"idiom": "(Over) head and ears",
+	"m_e": "Completely, wholly",
+	"m_u": "مکمل طور پر",
+	"sentence": "He is head and ears in debt.",
+	"imp": false
+},
+{
+	"idiom": "Of one's own accord/free will",
+	"m_e": "By one's own choice",
+	"m_u": "اپنی مرضی سے",
+	"sentence": "I cleaned up my room of my own accord.",
+	"imp": false
+},
+{
+	"idiom": "On the horns of a dilemma",
+	"m_e": "Unable to decide between two things",
+	"m_u": "دو چیزوں میں سے فیصلہ نہ کر پانا",
+	"sentence": "Nonprofit groups are often caught on the horns of a dilemma – they have to satisfy their donors and attract new donors.",
+	"imp": false
+},
+{
+	"idiom": "On the verge of",
+	"m_e": "Close to",
+	"m_u": "کچھ کرنے یا ہونے کے نزدیک",
+	"sentence": "I was on the verge of calling the doctor when he suddenly got better.",
+	"imp": false
+},
+{
+	"idiom": "Once and for all",
+	"m_e": "Permanently",
+	"m_u": "ہمیشہ کے لئے",
+	"sentence": "I'm going to get this place organised once and for all!",
+	"imp": false
+},
+{
+	"idiom": "An open secret",
+	"m_e": "Secret known to many",
+	"m_u": "کُھلا راز",
+	"sentence": "It's an open secret that Max is looking for a new job.",
+	"imp": false
+},
+{
+	"idiom": "Part and parcel",
+	"m_e": "Necessary part",
+	"m_u": "لازمی حصہ",
+	"sentence": "Being recognized on the street is part and parcel of being a celebrity.",
+	"imp": true
+},
+{
+	"idiom": "Pass away",
+	"m_e": "To die",
+	"m_u": "فوت ہوجانا",
+	"sentence": "My aunt passed away last month.",
+	"imp": false
+},
+{
+	"idiom": "Pay lip service",
+	"m_e": "Insincere loyalty/respect",
+	"m_u": "خوشآمدی",
+	"sentence": "He just pays lip service instead of working.",
+	"imp": true
+},
+{
+	"idiom": "Play truant",
+	"m_e": "Absent without permission",
+	"m_u": "بغیر اجازت غیرحاضری",
+	"sentence": "I was so bored at work that I decided to play truant after lunch.",
+	"imp": true
+},
+{
+	"idiom": "Play with fire",
+	"m_e": "Taking risks",
+	"m_u": "خطرہ مول لینا",
+	"sentence": "We're playing with fire if we continue with genetic modification of our food.",
+	"imp": false
+},
+{
+	"idiom": "Pros and cons",
+	"m_e": "Advantages and disadvantages",
+	"m_u": "خوبیاں و خامیاں",
+	"sentence": "We've been discussing the pros and cons of buying a house.",
+	"imp": false
+},
+{
+	"idiom": "Put by",
+	"m_e": "To reserve",
+	"m_u": "بچا کر رکھنا",
+	"sentence": "I put some money by for a rainy day.",
+	"imp": false
+},
+{
+	"idiom": "Put down",
+	"m_e": "To write down",
+	"m_u": "لکھنا",
+	"sentence": "A poet puts down his feelings on paper.",
+	"imp": false
+},
+{
+	"idiom": "Put off",
+	"m_e": "To delay dealing",
+	"m_u": "ٹالنا",
+	"sentence": "I had to put off the plumber again, because we don't have money to pay him.",
+	"imp": false
+},
+{
+	"idiom": "Put on",
+	"m_e": "To wear",
+	"m_u": "پہننا",
+	"sentence": "I put a heavy coat on to go outside in the cold.",
+	"imp": false
+},
+{
+	"idiom": "Put out",
+	"m_e": "To extinguish",
+	"m_u": "بُجھانا",
+	"sentence": "He used water to put out fire.",
+	"imp": true
+},
+{
+	"idiom": "Put the cart before the horse",
+	"m_e": "In wrong order",
+	"m_u": "اُلٹا کام کرنا",
+	"sentence": "John has the cart before the horse in most of his projects.",
+	"imp": false
+},
+{
+	"idiom": "Put up with",
+	"m_e": "To tolerate",
+	"m_u": "برداشت کرنا",
+	"sentence": "I cannot put up with your constant whining any longer!",
+	"imp": false
+},
+{
+	"idiom": "Play one's trump card",
+	"m_e": "A key to advantage",
+	"m_u": "بہترین حکمتِ عملی",
+	"sentence": "He won the game by playing his trump card.",
+	"imp": false
+},
+{
+	"idiom": "Play second fiddle to (someone)",
+	"m_e": "In a less important position",
+	"m_u": "کسی سے کم درجہ پر ہونا",
+	"sentence": "I'm more qualified than John but I still have to play second fiddle to him.",
+	"imp": false
+},
+{
+	"idiom": "Poke one's nose into something",
+	"m_e": "To interfere",
+	"m_u": "مداخلت کرنا",
+	"sentence": "I told her to stop poking her nose into our business.",
+	"imp": false
+},
+{
+	"idiom": "Pull (someone's) legs",
+	"m_e": "Tease someone",
+	"m_u": "بیوقوف بنانا",
+	"sentence": "The students used to pull Mr. Chips' legs.",
+	"imp": false
+},
+{
+	"idiom": "Rank and file",
+	"m_e": "Ordinary people",
+	"m_u": "عام لوگ",
+	"sentence": "The rank and file usually do exactly as they are told.",
+	"imp": true
+},
+{
+	"idiom": "Red tape",
+	"m_e": "Official rules which cause delay",
+	"m_u": "قوانین جن سے تاخیر ہو",
+	"sentence": "My passport application has been held up by red tape.",
+	"imp": false
+},
+{
+	"idiom": "Rest on one's laurels",
+	"m_e": "Rely on one's past achievements",
+	"m_u": "پِچھلی کامیابیوں پر مطمئن ہونا",
+	"sentence": "Even though you did well on all your exams, you can't simply rest on your laurels.",
+	"imp": false
+},
+{
+	"idiom": "Read cover to cover",
+	"m_e": "To read from beginning to end",
+	"m_u": "شروع سے آخر تک پڑھنا",
+	"sentence": "He reads the newspaper cover to cover.",
+	"imp": false
+},
+{
+	"idiom": "Read a lecture",
+	"m_e": "Teach a lesson",
+	"m_u": "سبق سکھانا",
+	"sentence": "Dad read us a lecture after the teacher phoned and complained about us.",
+	"imp": false
+},
+{
+	"idiom": "Run down",
+	"m_e": "To reduce, come down",
+	"m_u": "کم ہونا یا نیچے آنا",
+	"sentence": "I will run down and talk to you. OR The water reservoirs are running down.",
+	"imp": false
+},
+{
+	"idiom": "Run over",
+	"m_e": "To overflow",
+	"m_u": "زیادتی ہونا",
+	"sentence": "She poured the coffee until the cup ran over.",
+	"imp": false
+},
+{
+	"idiom": "Run short of",
+	"m_e": "Shortage of something",
+	"m_u": "کمی ہونا",
+	"sentence": "We are running short of eggs.",
+	"imp": false
+},
+{
+	"idiom": "Read between the lines",
+	"m_e": "To try to understand hidden meaning",
+	"m_u": "مخفی مطلب سمجھنا",
+	"sentence": "If you read between the lines, you can begin to see what it really means.",
+	"imp": false
+},
+{
+	"idiom": "Scot-free",
+	"m_e": "Without paying",
+	"m_u": "سزا سے بچ جانا",
+	"sentence": "After the trial, the criminals went scot-free.",
+	"imp": false
+},
+{
+	"idiom": "See off",
+	"m_e": "To say goodbye",
+	"m_u": "الوداع کہنا",
+	"sentence": "He went to the airport to see us off.",
+	"imp": false
+},
+{
+	"idiom": "See through",
+	"m_e": "To understand",
+	"m_u": "بھانپ لینا",
+	"sentence": "We saw through the fraud of this company.",
+	"imp": false
+},
+{
+	"idiom": "Send for",
+	"m_e": "Summon",
+	"m_u": "بُلانا",
+	"sentence": "If you don't go I shall send for the police.",
+	"imp": false
+},
+{
+	"idiom": "Set aside",
+	"m_e": "To reject",
+	"m_u": "رد کرنا",
+	"sentence": "The court has set aside the new petrol prices.",
+	"imp": false
+},
+{
+	"idiom": "Set by",
+	"m_e": "Put aside for future",
+	"m_u": "بچا کر رکھنا",
+	"sentence": "He had some petrol set by for an emergency situation.",
+	"imp": false
+},
+{
+	"idiom": "Set in",
+	"m_e": "To begin",
+	"m_u": "شروع ہونا",
+	"sentence": "In winter, darkness sets in so early!",
+	"imp": false
+},
+{
+	"idiom": "Set in motion",
+	"m_e": "Move something",
+	"m_u": "چلانا",
+	"sentence": "The wind will set the ship in motion.",
+	"imp": false
+},
+{
+	"idiom": "Set off",
+	"m_e": "Leave for a journey",
+	"m_u": "سفر کرنا",
+	"sentence": "We set off for Tokyo three hours late.",
+	"imp": false
+},
+{
+	"idiom": "Set out",
+	"m_e": "Leave for a journey",
+	"m_u": "سفر کرنا",
+	"sentence": "We set out on our trip exactly as planned.",
+	"imp": false
+},
+{
+	"idiom": "Set up",
+	"m_e": "To establish something",
+	"m_u": "کچھ قائم کرنا",
+	"sentence": "It took nearly an hour to set up the tent.",
+	"imp": true
+},
+{
+	"idiom": "Smell a rat",
+	"m_e": "To sense something wrong",
+	"m_u": "گڑبڑ محسوس کرنا",
+	"sentence": "I smelled a rat as he made that offer. It sounded too good to be true.",
+	"imp": true
+},
+{
+	"idiom": "Snake in the grass",
+	"m_e": "A friend with the intent to deceive",
+	"m_u": "چھپا ہوا دُشمن",
+	"sentence": "How could I ever have trusted that snake in the grass?",
+	"imp": true
+},
+{
+	"idiom": "Spick-and-span",
+	"m_e": "Clean, spotless",
+	"m_u": "صاف ستھرا",
+	"sentence": "The soldiers were in spick-and-span uniforms.",
+	"imp": false
+},
+{
+	"idiom": "Stand by",
+	"m_e": "Available for use, waiting",
+	"m_u": "استعمال کے لئے تیار",
+	"sentence": "Ten thousand soldiers are on stand by for in case of a natural disaster.",
+	"imp": false
+},
+{
+	"idiom": "Storm in a teacup",
+	"m_e": "Excitement about a trivial matter",
+	"m_u": "بات کا بتنگڑ بنانا",
+	"sentence": "There's no danger of a war &dash; it's all a storm in a teacup.",
+	"imp": false
+},
+{
+	"idiom": "Sum and substance",
+	"m_e": "A summary",
+	"m_u": "مرکزی خیال، خلاصہ",
+	"sentence": "Can you quickly tell me the sum and substance of your proposal?",
+	"imp": false
+},
+{
+	"idiom": "Say (something) to (someone's) face",
+	"m_e": "Say directly to someone",
+	"m_u": "کسی سے کھری کھری کہ دینا",
+	"sentence": "I thought she felt that way, but I never thought she'd say it to my face.",
+	"imp": false
+},
+{
+	"idiom": "See eye to eye (with someone)",
+	"m_e": "To agree with someone",
+	"m_u": "متفق ہونا",
+	"sentence": "My father and I see eye to eye on most things.",
+	"imp": false
+},
+{
+	"idiom": "Snail's pace",
+	"m_e": "Very slow pace",
+	"m_u": "سست رفتار",
+	"sentence": "They're making the new vaccine, but at a snail's pace.",
+	"imp": false
+},
+{
+	"idiom": "Split hairs",
+	"m_e": "Make unnecessary distinctions",
+	"m_u": "غیرضروری امتیازات",
+	"sentence": "Don't waste time splitting hairs and accept it the way it is.",
+	"imp": false
+},
+{
+	"idiom": "Spread like wildfire",
+	"m_e": "To spread rapidly",
+	"m_u": "تیزی سے پھیلنا",
+	"sentence": "Rumours spread like wildfire when people are excited.",
+	"imp": false
+},
+{
+	"idiom": "Square meal",
+	"m_e": "A nutritious meal",
+	"m_u": "متناسب کھانا",
+	"sentence": "The lunch program at school provides square meals for children.",
+	"imp": false
+},
+{
+	"idiom": "Square peg in a round hole",
+	"m_e": "Not fitting in or together",
+	"m_u": "ایک ساتھ نہ جڑنا",
+	"sentence": "Trying to teach me math is like trying to fit a square peg into a round hole.",
+	"imp": false
+},
+{
+	"idiom": "Stand one's ground",
+	"m_e": "Maintain one's position",
+	"m_u": "اپنی جگہ برقرار رکھنا",
+	"sentence": "Afghanistan stood its ground even after facing many invasions.",
+	"imp": false
+},
+{
+	"idiom": "To hit/strike while the iron is hot",
+	"m_e": "Take action while there's chance",
+	"m_u": "موقع کا فائدہ اُٹھانا",
+	"sentence": "We should strike while the iron is hot, and buy a house as soon as possible.",
+	"imp": false
+},
+{
+	"idiom": "Take after",
+	"m_e": "To resemble a relative",
+	"m_u": "مشابہت ہونا",
+	"sentence": "She takes after her grandfather in her talent for design.",
+	"imp": false
+},
+{
+	"idiom": "Take down",
+	"m_e": "To write, to defeat",
+	"m_u": "لکھنا، ہرانا",
+	"sentence": "Today in tennis, Martinez took down Kournikova to win the championship. OR Please take these figures down in your notebook.",
+	"imp": true
+},
+{
+	"idiom": "Take into account",
+	"m_e": "To consider something",
+	"m_u": "شامل کرنا، ذہن میں رکھنا",
+	"sentence": "Salespeople have to take into account the differences between their customers.",
+	"imp": false
+},
+{
+	"idiom": "Take to",
+	"m_e": "To start doing regularly",
+	"m_u": "باقاعدگی سے کرنا",
+	"sentence": "After he retired, he took to working in the local schools.",
+	"imp": false
+},
+{
+	"idiom": "Talk shop",
+	"m_e": "Talk about business/work",
+	"m_u": "کام کے بارے میں بات کرنا",
+	"sentence": "John and his brother talk shop on the weekends.",
+	"imp": false
+},
+{
+	"idiom": "Tell upon",
+	"m_e": "To have an effect",
+	"m_u": "اثر انداز ہونا",
+	"sentence": "Overworking was now beginning to tell upon the health of Steve.",
+	"imp": false
+},
+{
+	"idiom": "Through thick and thin",
+	"m_e": "Through good and bad times",
+	"m_u": "اچھے برے حالات سے",
+	"sentence": "Dogs are loyal to you through thick and thin.",
+	"imp": false
+},
+{
+	"idiom": "To abide by",
+	"m_e": "To obey",
+	"m_u": "پابندی کرنا",
+	"sentence": "He became a doctor to abide by his father's wishes.",
+	"imp": false
+},
+{
+	"idiom": "To back out",
+	"m_e": "To recede",
+	"m_u": "پیچھے ہٹ جانا",
+	"sentence": "They backed out of the deal when we refused to accept their new terms.",
+	"imp": false
+},
+{
+	"idiom": "To be hard up",
+	"m_e": "Having too little money",
+	"m_u": "تنگ دست ہونا",
+	"sentence": "She is hard up after losing her job.",
+	"imp": false
+},
+{
+	"idiom": "To be taken aback",
+	"m_e": "Surprised",
+	"m_u": "حیران رہ جانا",
+	"sentence": "When she told me the news, I was taken aback for a moment.",
+	"imp": false
+},
+{
+	"idiom": "To beat about the bush",
+	"m_e": "To avoid talking about something",
+	"m_u": "اِدھر اُدھر کی باتیں کرنا",
+	"sentence": "Don't beat around the bush and just tell me where he did he go.",
+	"imp": false
+},
+{
+	"idiom": "To be at one's beck and call",
+	"m_e": "Ready to obey",
+	"m_u": "کام کے لئے تیار",
+	"sentence": "She had a dozen servants at her beck and call.",
+	"imp": false
+},
+{
+	"idiom": "To bring to book",
+	"m_e": "To punish",
+	"m_u": "سزا دینا",
+	"sentence": "The criminals must be brought to book.",
+	"imp": false
+},
+{
+	"idiom": "To burn one's finger",
+	"m_e": "Harm oneself",
+	"m_u": "اپنے آپ کو نقصان",
+	"sentence": "He burned his fingers in the stock market.",
+	"imp": false
+},
+{
+	"idiom": "To call a spade a spade",
+	"m_e": "To speak clearly",
+	"m_u": "کھری کھری بات کرنا",
+	"sentence": "More time will be wasted if we don't call a spade a spade.",
+	"imp": false
+},
+{
+	"idiom": "To call names",
+	"m_e": "To insult someone",
+	"m_u": "نام رکھنا",
+	"sentence": "John was punished for calling his teacher names.",
+	"imp": false
+},
+{
+	"idiom": "To come to light",
+	"m_e": "To become known",
+	"m_u": "منظرِ عام پر آنا",
+	"sentence": "Twenty four officers have faced charges since the scandal came to light last month.",
+	"imp": false
+},
+{
+	"idiom": "To catch red-handed",
+	"m_e": "To catch someone doing something",
+	"m_u": "رنگے ہاتھوں پکڑنا",
+	"sentence": "Tom was stealing the car when the police caught him red-handed.",
+	"imp": false
+},
+{
+	"idiom": "To cast a spell",
+	"m_e": "To delight",
+	"m_u": "جادو کرنا",
+	"sentence": "This beautiful story casts a spell on its readers.",
+	"imp": false
+},
+{
+	"idiom": "To come to blows",
+	"m_e": "To have a fight",
+	"m_u": "لڑائی پر اُتر آنا",
+	"sentence": "Let's not come to blows over this silly disagreement.",
+	"imp": false
+},
+{
+	"idiom": "To cut at",
+	"m_e": "To cut or slice",
+	"m_u": "کاٹنا",
+	"sentence": "Dad cut away at the chicken and asked us what part we wanted.",
+	"imp": false
+},
+{
+	"idiom": "To cut to the quick",
+	"m_e": "Injure someone emotionally",
+	"m_u": "ذہنی صدمہ دینا",
+	"sentence": "Your insulting comments cut me to the quick.",
+	"imp": false
+},
+{
+	"idiom": "To eat one's word",
+	"m_e": "Take back what one said",
+	"m_u": "اپنے الفاظ واپس لینا",
+	"sentence": "Ali was wrong and had to take eat his words.",
+	"imp": false
+},
+{
+	"idiom": "To fall flat",
+	"m_e": "To fail",
+	"m_u": "ناکام ہونا، بےاثر",
+	"sentence": "The advertising campaign which had worked so well in the US fell flat in UK.",
+	"imp": false
+},
+{
+	"idiom": "To fight with one's back to the wall",
+	"m_e": "In a difficult situation",
+	"m_u": "مشکل میں ہونا",
+	"sentence": "In the last minutes of the game, our team had to fight with their back to the wall.",
+	"imp": false
+},
+{
+	"idiom": "To flog a dead horse",
+	"m_e": "Useless activity",
+	"m_u": "وقت ضائع کرنے والا کام",
+	"sentence": "You're flogging a dead horse trying to persuade him to come to Spain.",
+	"imp": false
+},
+{
+	"idiom": "To get in",
+	"m_e": "To enter",
+	"m_u": "داخل ہونا یا کرنا",
+	"sentence": "Somehow, we managed to get our son into a fine private school.",
+	"imp": false
+},
+{
+	"idiom": "To get into hot water",
+	"m_e": "To get into trouble",
+	"m_u": "مشکل میں پڑنا",
+	"sentence": "He got into hot water with his school by not paying his tuition.",
+	"imp": false
+},
+{
+	"idiom": "To gird up one's loins",
+	"m_e": "Prepare for action",
+	"m_u": "تیاری کرنا",
+	"sentence": "I'm girding up my loins for that interview.",
+	"imp": false
+},
+{
+	"idiom": "To give vent to",
+	"m_e": "To express an emotion",
+	"m_u": "جزبات کا اظہار",
+	"sentence": "He didn't dare give vent to his annoyance in front of her parents.",
+	"imp": false
+},
+{
+	"idiom": "To go off",
+	"m_e": "To explode or to sound",
+	"m_u": "پھٹنا یا آواز کرنا",
+	"sentence": "The bomb went off and did a lot of damage. OR The alarm went off at seven o'clock.",
+	"imp": false
+},
+{
+	"idiom": "To grease the palm",
+	"m_e": "To bribe somebody",
+	"m_u": "رشوت دینا",
+	"sentence": "The government should not grease the palms of public officials.",
+	"imp": false
+},
+{
+	"idiom": "To leave in the lurch",
+	"m_e": "Leave someone who's waiting for you",
+	"m_u": "کسی کو منتظر چھوڑ دینا",
+	"sentence": "Where were you, John? You really left me in the lurch.",
+	"imp": false
+},
+{
+	"idiom": "To leave no stone unturned",
+	"m_e": "To try every possibility",
+	"m_u": "ہر ممکن کوشش کرنا",
+	"sentence": "He left no stone unturned to provide justice.",
+	"imp": false
+},
+{
+	"idiom": "To lick the dust",
+	"m_e": "To lose in battle",
+	"m_u": "جنگ میں ہارنا",
+	"sentence": "Our enemies shall lick the dust.",
+	"imp": true
+},
+{
+	"idiom": "To take a fancy to",
+	"m_e": "To like something",
+	"m_u": "پسند کرنا",
+	"sentence": "She's got enough money to buy whatever she takes a fancy to.",
+	"imp": false
+},
+{
+	"idiom": "To make fun of",
+	"m_e": "To ridicule",
+	"m_u": "مزاق اُڑانا",
+	"sentence": "We should not make fun of others.",
+	"imp": false
+},
+{
+	"idiom": "To make headway",
+	"m_e": "To make progress",
+	"m_u": "آگے بڑھنا",
+	"sentence": "We hope scientists are able to make headway against cancer.",
+	"imp": false
+},
+{
+	"idiom": "To make off with",
+	"m_e": "To steal",
+	"m_u": "چُرانا",
+	"sentence": "The robbers broke into the bank and made off with $50 million.",
+	"imp": false
+},
+{
+	"idiom": "To pay through nose",
+	"m_e": "Pay heavy amount",
+	"m_u": "بھاری قیمت ادا کرنا",
+	"sentence": "He had to pay through the nose for car parking.",
+	"imp": false
+},
+{
+	"idiom": "To pass on",
+	"m_e": "Accept/approve someone/something, die",
+	"m_u": "منظور کرنا یا مرنا",
+	"sentence": "The committee passed on the proposal. OR Mr. Chips passed on at the age of 85.",
+	"imp": false
+},
+{
+	"idiom": "To round up",
+	"m_e": "To gather",
+	"m_u": "اکٹھا کرنا",
+	"sentence": "The police rounded up the two suspects for questioning.",
+	"imp": false
+},
+{
+	"idiom": "To sit on the fence",
+	"m_e": "not to take sides",
+	"m_u": "حمایت نہ کرنا",
+	"sentence": "When Mary and Mike argue, it is best to sit on the fence and not make either of them angry.",
+	"imp": false
+},
+{
+	"idiom": "To stand on ceremony",
+	"m_e": "To behave formal",
+	"m_u": "رسمی انداز میں",
+	"sentence": "Please sit down and make yourself comfortable, we don't stand on ceremony here.",
+	"imp": false
+},
+{
+	"idiom": "Turn a deaf ear",
+	"m_e": "To ignore",
+	"m_u": "نظرانداز کرنا",
+	"sentence": "In the past they've to turned a deaf ear to such requests.",
+	"imp": false
+},
+{
+	"idiom": "To turn down",
+	"m_e": "To reject or refuse",
+	"m_u": "مسترد کرنا",
+	"sentence": "The board turned our request down.",
+	"imp": true
+},
+{
+	"idiom": "To work out",
+	"m_e": "Be effective, exercise",
+	"m_u": "موئثر، ورزش",
+	"sentence": "Our plan will work out in the end. OR I go to the gym to work out at least twice a week.",
+	"imp": false
+},
+{
+	"idiom": "Turn turtle",
+	"m_e": "To turn upside-down",
+	"m_u": "اُلٹ جانا",
+	"sentence": "Our sailboat turned turtle during the storm.",
+	"imp": false
+},
+{
+	"idiom": "Turn up",
+	"m_e": "To increase, to arrive",
+	"m_u": "زیادہ کرنا یا پہنچنا",
+	"sentence": "Please turn up the radio! OR Guess who turned up at my door last night?",
+	"imp": true
+},
+{
+	"idiom": "To take (something) to heart",
+	"m_e": "To take something seriously",
+	"m_u": "سنجیدگی سے لینا",
+	"sentence": "Everything he said is true, and I hope people will take it to heart.",
+	"imp": false
+},
+{
+	"idiom": "To take heart",
+	"m_e": "To be encouraged",
+	"m_u": "پُراعتماد ہونا",
+	"sentence": "I told her to take heart and try again next time.",
+	"imp": false
+},
+{
+	"idiom": "To take (someone) by surprise",
+	"m_e": "To surprise someone",
+	"m_u": "کسی کو حیران کرنا",
+	"sentence": "His resignation took us all completely by surprise.",
+	"imp": false
+},
+{
+	"idiom": "To take for granted",
+	"m_e": "To expect something without gratitude",
+	"m_u": "اہمیت دیئے بغیر استعمال کرنا",
+	"sentence": "So many of us take clean water for granted.",
+	"imp": false
+},
+{
+	"idiom": "To take to task",
+	"m_e": "To criticise",
+	"m_u": "سرزنش کرنا",
+	"sentence": "I lost a big contract, and the boss took me to task in front of everyone.",
+	"imp": false
+},
+{
+	"idiom": "To take the bull by the horns",
+	"m_e": "To confront difficulties resolutely",
+	"m_u": "مشکل کا جم کر مقابلہ کرنا",
+	"sentence": "The military took the bull by the horns and eliminated the terrorists.",
+	"imp": false
+},
+{
+	"idiom": "To take to one's heels",
+	"m_e": "To run away",
+	"m_u": "بھاگ جانا",
+	"sentence": "Our enemies took to their heels when we revealed our nuclear power.",
+	"imp": false
+},
+{
+	"idiom": "Then and there",
+	"m_e": "Right at that time and place",
+	"m_u": "اُسی وقت اور موقع پر",
+	"sentence": "I decided to settle the matter then and there and not wait until Monday.",
+	"imp": false
+},
+{
+	"idiom": "True to one's word",
+	"m_e": "To keep one's promise",
+	"m_u": "وعدہ پورا کرنا",
+	"sentence": "True to his word, John showed up at exactly eight o'clock.",
+	"imp": false
+},
+{
+	"idiom": "Turn one's back on (someone/something)",
+	"m_e": "To reject someone/something",
+	"m_u": "مسترد کرنا",
+	"sentence": "He does not turns his back on anyone's request for help.",
+	"imp": false
+},
+{
+	"idiom": "Turn over a new leaf",
+	"m_e": "To reform and begin again",
+	"m_u": "دوبارہ آغاز کرنا",
+	"sentence": "I have made a mess of my life. I'll turn over a new leaf and hope to do better.",
+	"imp": false
+},
+{
+	"idiom": "Turn the tables on (someone)",
+	"m_e": "Change a situation to one's advantage",
+	"m_u": "صورتِ حال بدلنا",
+	"sentence": "After six defeats, we finally turned the tables on our old rivals.",
+	"imp": false
+},
+{
+	"idiom": "Under a cloud",
+	"m_e": "Suspected of something",
+	"m_u": "مشکوک",
+	"sentence": "Someone stole some money at work, and now everyone is under a cloud of suspicion.",
+	"imp": false
+},
+{
+	"idiom": "Ups and downs",
+	"m_e": "Good and bad things",
+	"m_u": "اچھی اور بری چیزیں",
+	"sentence": "Ups and downs are to be expected in life.",
+	"imp": false
+},
+{
+	"idiom": "Up to the mark",
+	"m_e": "Up to the standard",
+	"m_u": "معیار کے مطابق",
+	"sentence": "When your work is up to the mark we can review your salary again.",
+	"imp": false
+},
+{
+	"idiom": "Wear and tear",
+	"m_e": "Damage from use",
+	"m_u": "استعمال سے بےکار ہوجانا",
+	"sentence": "Driving in freezing weather means lots of wear and tear on your car.",
+	"imp": false
+},
+{
+	"idiom": "White lie",
+	"m_e": "A lie told to be polite",
+	"m_u": "بےضرر جھوٹ",
+	"sentence": "She asked if I liked her dress, and of course I told a white lie.",
+	"imp": false
+},
+{
+	"idiom": "With a heavy heart",
+	"m_e": "Sadly",
+	"m_u": "اُداسی سے",
+	"sentence": "With a heavy heart, she said good-bye.",
+	"imp": false
+},
+{
+	"idiom": "With all one's heart and soul",
+	"m_e": "With great willingness",
+	"m_u": "مخلصانہ انداز میں",
+	"sentence": "He does his job with all his heart and soul.",
+	"imp": false
+},
+{
+	"idiom": "With flying colours",
+	"m_e": "Easily",
+	"m_u": "آسانی سے",
+	"sentence": "She took a driving test and passed with flying colours.",
+	"imp": false
+},
+{
+	"idiom": "With a grain of salt",
+	"m_e": "Doubtfully",
+	"m_u": "شک سے",
+	"sentence": "I take his stories with a grain of salt because he tends to exaggerate.",
+	"imp": false
+},
+{
+	"idiom": "With a view to",
+	"m_e": "With a purpose",
+	"m_u": "کسی مقصد سے",
+	"sentence": "This building was designed with a view to resist earthquakes.",
+	"imp": false
+},
+{
+	"idiom": "With an iron hand",
+	"m_e": "Control firmly",
+	"m_u": "قوت سے",
+	"sentence": "My uncle rules the family business with an iron hand.",
+	"imp": false
+},
+{
+	"idiom": "With open arms",
+	"m_e": "With happiness",
+	"m_u": "خوشی سے",
+	"sentence": "They received their new daughter-in-law with open arms.",
+	"imp": false
+},
+{
+	"idiom": "Without fail",
+	"m_e": "Certain to happen, constant",
+	"m_u": "مسلسل",
+	"sentence": "Sarah sends me a card on my birthday without fail.",
+	"imp": false
+},
+{
+	"idiom": "Wolf in sheep's clothing",
+	"m_e": "A danger appearing harmless",
+	"m_u": "دوست کر روپ میں دشمن",
+	"sentence": "He appears to be nice but is a wolf in sheep's clothing.",
+	"imp": false
+},
+{
+	"idiom": "Work wonders",
+	"m_e": "Very helpful",
+	"m_u": "بہت مددگار",
+	"sentence": "This new medicine works wonders with my headaches.",
+	"imp": true
+},
+{
+	"idiom": "Wait for a raindrop in the drought",
+	"m_e": "Hoping for an unlikely thing",
+	"m_u": "ناممکن کی امید کرنا",
+	"sentence": "For many people finding a job these days is like waiting for a raindrop in the drought.",
+	"imp": false
+},
+{
+	"idiom": "Weal and woe",
+	"m_e": "Good and bad times",
+	"m_u": "اچھے اور برے وقت",
+	"sentence": "We all get our share of weal and woe in life.",
+	"imp": false
+},
+{
+	"idiom": "Walking on broken glass",
+	"m_e": "To get punished",
+	"m_u": "سزا ہونا",
+	"sentence": "Mom had me walking on broken glass for breaking the window.",
+	"imp": false
+},
+{
+	"idiom": "X factor",
+	"m_e": "Unique or exceptional quality",
+	"m_u": "کسی کی خاصیت",
+	"sentence": "A lot of similar products are on the market right now—ours has to have an X factor!",
+	"imp": false
+},
+{
+	"idiom": "X marks the spot",
+	"m_e": "Exact position of something",
+	"m_u": "عین اِسی جگہ",
+	"sentence": "This is where the rock struck my car—X marks the spot.",
+	"imp": false
+},
+{
+	"idiom": "Yeoman's service",
+	"m_e": "Good enough service",
+	"m_u": "ٹھیک خدمت",
+	"sentence": "This wooden ladder has done me yeoman's service over the years.",
+	"imp": false
+},
+{
+	"idiom": "Yes-man",
+	"m_e": "Someone who always agrees with the authority",
+	"m_u": "ہاں میں ہاں ملانے والا",
+	"sentence": "You can't trust what Chad says, he's just the boss's yes-man.",
+	"imp": false
+},
+{
+	"idiom": "Young Turk",
+	"m_e": "A young rebel",
+	"m_u": "جوان باغی",
+	"sentence": "The young Turks are acting up again against the status quo.",
+	"imp": false
+},
+{
+	"idiom": "Zero hour",
+	"m_e": "Starting time",
+	"m_u": "وقتِ آغاز",
+	"sentence": "I have so much studying left to do before the exam, and zero hour is 8 AM!",
+	"imp": false
+},
+{
+	"idiom": "Zero tolerance",
+	"m_e": "No tolerance at all",
+	"m_u": "مکمل عدم برداشت",
+	"sentence": "There should be zero tolerance against corruption.",
+	"imp": false
+},
+{
+	"idiom": "Zip your lip",
+	"m_e": "Be quiet",
+	"m_u": "خاموش ہونا",
+	"sentence": "The teacher ordered the students to zip their lips.",
+	"imp": false
+},
+{
+	"idiom": "Zeal and zest",
+	"m_e": "With great enthusiasm",
+	"m_u": "جوش و جزبہ",
+	"sentence": "The team celebrated with zeal and zest after their victory.",
+	"imp": false
+}
+]
