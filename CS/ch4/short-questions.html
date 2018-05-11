@@ -1,79 +1,111 @@
 <div class="question important">
 	<h3 class="statement"><span>1.</span> Define Referential integrity.</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">The referential integrity is a constraint on foreign key value. It states that if a foreign key exists in a relation, the foreign key value must match the primary key value of some tuple (row) in its parent table. Otherwise the foreign key value must be null.</h4>
 </div>
 
 <div class="question">
 	<h3 class="statement"><span>2.</span> What is Entity integrity?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">
+		Entity Integrity is a constraint on primary key. Entity Integrity ensures two properties for primary keys:
+		<ol>
+			<li>The primary key for a row is unique; it does not match the primary key of any other row in the table.</li>
+			<li>The primary key is not null, no attribute (columns) of the primary key may be set to <em>null</em>.</li>
+		</ol>
+	</h4>
 </div>
 
 <div class="question">
 	<h3 class="statement"><span>3.</span> Differentiate between Entity integrity and Referential integrity.</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">
+		Entity integrity:
+		<ul>
+			<li>The entity integrity is a constraint on primary key.</li>
+			<li>Primary key cannot contain null (in any column, in case of a composite key)</li>
+		</ul>
+		Referential integrity:
+		<ul>
+			<li>Referential integrity is a constraint on foreign key.</li>
+			<li>A valid foreign key value must always reference an existing primary key or contain a <em>null</em> value.</li>
+		</ul>
+	</h4>
 </div>
 
 <div class="question">
 	<h3 class="statement"><span>4.</span> How is Referential integrity achieved?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">The referential integrity can be achieved by connecting two relations by specifying relationships between them. While specifying relationships, we must ensure that the foreign key value must always reference an existing primary key or contain a null value.</h4>
 </div>
 
 <div class="question">
 	<h3 class="statement"><span>5.</span> How Entity integrity is maintained?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">Entity integrity is attained be specifying a primary key in a table. Then the DBMS automatically takes care of ensuring entity integrity by not allowing null value and non-unique values in the primary key field.</h4>
 </div>
 
 <div class="question">
 	<h3 class="statement"><span>6.</span> What is Partial dependency?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">A type of dependency in which one or more non-key attributes are functionally dependent on a part of primary key is called partial dependency.</h4>
 </div>
 
 <div class="question">
-	<h3 class="statement"><span>7.</span> Define determinate?</h3>
-	<h4 class="answer">.</h4>
+	<h3 class="statement"><span>7.</span> Define determinant?</h3>
+	<h4 class="answer">A determinant is an attribute whose value enables us to obtain the value of other related attributes. It appears on the left side of a functional dependency. Therefore, in A &rarr; B, the determinant is A.</h4>
 </div>
 
 <div class="question important">
 	<h3 class="statement"><span>8.</span> What is data redundancy?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">
+		<p>Redundancy occurs in a relation when same information is stored in two or more different ways. For example, consider:</p>
+		<p>Employee(Emp_ID, Name, Address, Age, Date-of-birth)</p>
+		<p>Here, we don't need one <strong>Age</strong>, since we can calculate it using Date of birth.</p>
+	</h4>
 </div>
 
 <div class="question important">
 	<h3 class="statement"><span>9.</span> What is a Synonym?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">Synonym is an error which occurs in tables, when two different names are used for the same attribute in different tables. The name of the attributes must be same if it exists in two or more tables.</h4>
 </div>
 
 <div class="question">
 	<h3 class="statement"><span>10.</span> What is a Homonym?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">
+		<p>Homonym is an error which occurs in tables when same name is used for two different attributes. For example, consider:</p>
+		<p>Customer(Customer_ID, Customer_Name, Address)</p>
+		<p>Supplier(Supplier_ID, Customer_Name, Address)</p>
+	</h4>
 </div>
 
 <div class="question important">
 	<h3 class="statement"><span>11.</span> What are database anomalies?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">Database anomalies are problems in relations due to the data redundancy. These problems are also referred to as update anomalies. These problems occur when insertion, deletion and modification operations are performed on the database. Some important data may be lost while performing these operations, if the relation contains anomalies.</h4>
 </div>
 
 <div class="question important">
 	<h3 class="statement"><span>12.</span> List different types of database anomalies?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">
+		The following are the different types of database anomalies:
+		<ul>
+			<li>Insertion anomaly.</li>
+			<li>Deletion anomaly.</li>
+			<li>Modification anomaly.</li>
+		</ul>
+	</h4>
 </div>
 
 <div class="question important">
 	<h3 class="statement"><span>13.</span> What is Normalization?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">The process of producing a simpler and more reliable database is called normalization. It is used to create a suitable set of relations for storing data. It identifies and corrects the problems and complexities of database. It produces new set of relations which are as free of problems as possible.</h4>
 </div>
 
 <div class="question">
 	<h3 class="statement"><span>14.</span> When is a relation in First Normal form?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">A relation R is said to be in first normal form (1NF), if and only if all underlying domains contain atomic values only. It means that the relation does not contain any column/attribute whose values can be further divided. For example, <em>Address</em> can be divided into House number, Street number, City, Zip code, State/Province, and Country.</h4>
 </div>
 
 <div class="question">
 	<h3 class="statement"><span>15.</span> Define Second Normal form.</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">A relation R is said to be in second normal form (2NF), if it is in 1NF and every non-key attribute is fully functionally dependent on all parts of the primary key.</h4>
 </div>
 
 <div class="question">
 	<h3 class="statement"><span>16.</span> What is 3NF?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">A relation R is said to be in third normal form or 3NF, if it is in 2NF and no transitive dependency exists. The transitive dependency is an important factor in normalization. A relation is not in 3NF if the value of a non-key attribute can be obtained by knowing the value of another non-key attribute.</h4>
 </div>

@@ -1,99 +1,141 @@
 <div class="question">
 	<h3 class="statement"><span>1.</span> What is a key?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">A key is an attribute or a set of attributes that uniquely identifies a tuple (a record) in a relation (a table). The keys are defined in tables to access stored data quickly and efficiently. They are also used to create relationships between different tables.</h4>
 </div>
 
 <div class="question">
 	<h3 class="statement"><span>2.</span> Define Primary key.</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">The attribute or combination of attributes that uniquely identifies a row (a record) in a relation is known as primary key. A relation can have only one primary key, and the primary key cannot be null (empty).</h4>
 </div>
 
 <div class="question">
 	<h3 class="statement"><span>3.</span> Define Foreign key.</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">A foreign key is an attribute or combination of attributes in a relation whose value matches a primary key in another relation. The table in which foreign key is created is known as dependent table. The table to which the foreign key refers is known as the parent table.</h4>
 </div>
 
 <div class="question">
-	<h3 class="statement"><span>4.</span> Define Alternate key.</h3>
-	<h4 class="answer">.</h4>
+	<h3 class="statement"><span>4.</span> What is Candidate key?</h3>
+	<h4 class="answer">A candidate key is an attribute, or a combination of attributes, in a relation which can be used to uniquely identify rows in that relation. Candidate keys can be used as primary key.</h4>
 </div>
 
 <div class="question">
-	<h3 class="statement"><span>5.</span> What is Cadidate key?</h3>
-	<h4 class="answer">.</h4>
+	<h3 class="statement"><span>5.</span> Define Alternate key.</h3>
+	<h4 class="answer">The candidate keys which are not used as the primary key in a relation are called alternate keys.</h4>
 </div>
 
 <div class="question">
 	<h3 class="statement"><span>6.</span> What is Composite key?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">A candidate key that consists of two or more attributes is called a composite key. For example, a table in which we store the courses each student is attending, at a university, will have a composite key containing <em>Student ID</em> and <em>Course ID</em> as the composite key.</h4>
 </div>
 
 <div class="question important">
-	<h3 class="statement"><span>7.</span> List different type of keys.</h3>
-	<h4 class="answer">.</h4>
+	<h3 class="statement"><span>7.</span> List different types of keys.</h3>
+	<h4 class="answer">
+		Some different types of keys used in a database are:
+		<ul>
+			<li>Primary Key.</li>
+			<li>Foreign Key.</li>
+			<li>Secondary Key.</li>
+			<li>Candidate Key.</li>
+			<li>Alternate Key.</li>
+			<li>Composite Key.</li>
+			<li>Sort or Control Key.</li>
+		</ul>
+	</h4>
 </div>
 
 <div class="question important">
 	<h3 class="statement"><span>8.</span> What is a Table/Relation?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">A two-dimensional array of data that contains descriptive information about an entity is known as a table or relation. The relations are used to store information about an entity.</h4>
 </div>
 
 <div class="question">
 	<h3 class="statement"><span>9.</span> Differentiate between parent table and child table.</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">
+		<p>In a database relationship, the table which contains the foreign key is called the child table. While the table to which the foreign key refers is called the parent table.</p>
+		<p>For example, a table called <em>Marks</em> has foreign key <strong>Student ID</strong> which refers to the table <em>Students</em>. So the child table is <em>Marks</em>, and the parent table is <em>Students</em></p>
+	</h4>
 </div>
 
 <div class="question">
-	<h3 class="statement"><span>10.</span> How is a relationship formed in a database?</h3>
-	<h4 class="answer">.</h4>
+	<h3 class="statement"><span>10.</span> How is a relation formed in a database?</h3>
+	<h4 class="answer">The relations are formed according to the attributes of the entity about which information is to be stored. The attributes of the entity become the fields of the relation. The name of the entity becomes the name of the relation. For example, Student is an entity so we can create a relation <em>Students</em> with fields like Roll Number, Name, Address etc.</h4>
 </div>
 
 <div class="question">
 	<h3 class="statement"><span>11.</span> Differentiate between Primary key, Candidate key and Alternate key.</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">
+		<p>A primary key is an attribute or a combination of attributes which can uniquely identify the rows in a table.</p>
+		<p>If a table has more than one such combination of keys, each combination is called a Candidate key.</p>
+		<p>The candidate keys which are not used as the primary key are called Alternate keys.</p>
+	</h4>
 </div>
 
 <div class="question">
-	<h3 class="statement"><span>12.</span> Differentiate between Primary key, Secondary key and Foriegn key.</h3>
-	<h4 class="answer">.</h4>
+	<h3 class="statement"><span>12.</span> Differentiate between Primary key, Secondary key and Foreign key.</h3>
+	<h4 class="answer">
+		<p>A primary key is an attribute or a combination of attributes which can uniquely identify the rows in a table.</p>
+		<p>A secondary key is an attribute or a combination of attributes for which there may exist more than one row in a table. So we can say that a secondary key non-uniquely identifies the rows in a table.</p>
+		<p>A foreign key in a table has a value which corresponds to the primary key of another table.</p>
+	</h4>
 </div>
 
 <div class="question">
 	<h3 class="statement"><span>13.</span> What is the purpose of an index file?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">An index is a data structure that is used by DBMS to locate a particular record in a file more quickly. Indexes are used to speed up the sorting and searching process. Some indexes are created automatically in the related tables when relationships are defined. The performance of database is improved with these indexes.</h4>
 </div>
 
 <div class="question important">
 	<h3 class="statement"><span>14.</span> Name 4 major components of a database system.</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">
+		The four major components of a database system are:
+		<ol>
+			<li>Data</li>
+			<li>Hardware</li>
+			<li>Software</li>
+			<li>People (Users)</li>
+		</ol>
+	</h4>
 </div>
 
 <div class="question important">
 	<h3 class="statement"><span>15.</span> What are the properties of a relation?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">
+		The two important properties of a relation are:
+		<ul>
+			<li>No duplicate row exists.</li>
+			<li>Order of rows is insignificant.</li>
+		</ul>
+	</h4>
 </div>
 
 <div class="question important">
 	<h3 class="statement"><span>16.</span> What is an entity?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">An entity is something or someone about which information is stored in a database. The entity must have a unique identifier, which is composed of one or more attributes.</h4>
 </div>
 
-<div class="question important">
-	<h3 class="statement"><span>17.</span> Who is a database administrator? What are his responsibilities?</h3>
-	<h4 class="answer">.</h4>
+<div class="question">
+	<h3 class="statement"><span>17.</span> Define attribute.</h3>
+	<h4 class="answer">The named columns of the relation are called attributes. In a relation, each attribute has a unique name. For example, Roll Number, Student Name, Address.</h4>
 </div>
 
 <div class="question important">
 	<h3 class="statement"><span>18.</span> Who is end user?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">A user or an end user is a person who interacts with DBMS to perform different operations on database such as retrieving, updating, inserting and deleting data.</h4>
 </div>
 
-<div class="question">
-	<h3 class="statement"><span>19.</span> Define attribute.</h3>
-	<h4 class="answer">.</h4>
+<div class="question important">
+	<h3 class="statement"><span>19.</span> Who is a database administrator? What are his responsibilities?</h3>
+	<h4 class="answer">
+		<p>A database administrator is responsible for the design, implementation, operation, management and maintenance of a database. </p>
+		<p>The major responsibilities include assigning permissions to different users, monitoring database usage, and solving any issues that may occur.</p>
+	</h4>
 </div>
 
 <div class="question important">
 	<h3 class="statement"><span>20.</span> What is a View? What is its purpose?</h3>
-	<h4 class="answer">.</h4>
+	<h4 class="answer">
+		<p>Presentation of data for users is known as data view. By using this feature of DBMS, data from several relations can be retrieved and presented to the user as one table in different styles and formats. A view is also known as a virtual table.</p>
+		<p>The basic purpose of using a view is to keep data safe and secure from unauthorized users, because a view can only be used to view data not edit it. A view provides more flexibility and security in displaying data.</p>
+	</h4>
 </div>
